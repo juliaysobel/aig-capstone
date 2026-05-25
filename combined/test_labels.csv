@@ -1,0 +1,1365 @@
+filename,original_filename,label,generic_name,generic_name_source,source,original_split,has_dosage_flag,quality_flag
+ds1_test_418.png,418.png,Ketozol,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds2_test_P0468.jpg,P0468.jpg,Coralcal,,unknown,ds2,test,False,ok
+ds2_train_P4192.jpg,P4192.jpg,Renova,Paracetamol,auto,ds2,train,False,ok
+ds1_train_894.png,894.png,Diflu,Fluconazole,source,ds1,train,False,ok
+ds2_train_P3394.jpg,P3394.jpg,Nutridex,,unknown,ds2,train,False,ok
+ds2_train_P4158.jpg,P4158.jpg,Respazit,,unknown,ds2,train,False,ok
+ds1_test_461.png,461.png,Maxima,Esomeprazole,source,ds1,test,False,ok
+ds1_train_975.png,975.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds2_train_P2065.jpg,P2065.jpg,Nexum mups 20,,unknown,ds2,train,True,ok
+ds1_train_2158.png,2158.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P1742.jpg,P1742.jpg,Eggcal,,unknown,ds2,train,False,ok
+ds2_test_P0915.jpg,P0915.jpg,Desolon,,unknown,ds2,test,False,ok
+ds1_val_337.png,337.png,Fixal,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P3144.jpg,P3144.jpg,Lindac,,unknown,ds2,train,False,ok
+ds1_test_64.png,64.png,Azithrocin,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds1_train_2621.png,2621.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds1_train_775.png,775.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_train_130.png,130.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_test_31.png,31.png,Amodis,Metronidazole,source,ds1,test,False,ok
+ds2_train_P4344.jpg,P4344.jpg,Ibuprofen,,unknown,ds2,train,False,ok
+ds1_train_241.png,241.png,Azithrocin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P1297.jpg,P1297.jpg,Cap.Fusprazo,,unknown,ds2,train,False,ok
+ds1_train_1604.png,1604.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds2_test_P0947.jpg,P0947.jpg,Neuro B,,unknown,ds2,test,False,ok
+ds1_test_78.png,78.png,Azyth,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds1_val_460.png,460.png,Maxima,Esomeprazole,source,ds1,val,False,ok
+ds1_val_557.png,557.png,Napa,Paracetamol,source,ds1,val,False,ok
+ds1_train_388.png,388.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_train_P3953.jpg,P3953.jpg,Capsule,,unknown,ds2,train,False,ok
+ds2_train_P1538.jpg,P1538.jpg,Dexter 60,,unknown,ds2,train,True,ok
+ds2_train_P1611.jpg,P1611.jpg,Devixil 0.5,,unknown,ds2,train,True,ok
+ds2_train_P3876.jpg,P3876.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P3416.jpg,P3416.jpg,Actrapid,,unknown,ds2,train,False,ok
+ds2_train_P1983.jpg,P1983.jpg,Relenfn,,unknown,ds2,train,False,ok
+ds1_test_471.png,471.png,Maxpro,Esomeprazole,source,ds1,test,False,ok
+ds1_train_2100.png,2100.png,Montene,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P2698.jpg,P2698.jpg,Filmet,Metronidazole,auto,ds2,train,False,ok
+ds1_train_2504.png,2504.png,Opton,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1468.jpg,P1468.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_test_629.png,629.png,Opton,Esomeprazole,source,ds1,test,False,ok
+ds1_val_352.png,352.png,Flexibac,Baclofen,source,ds1,val,False,ok
+ds1_test_115.png,115.png,Baclofen,Baclofen,source,ds1,test,False,ok
+ds2_train_P3992.jpg,P3992.jpg,Diet,,unknown,ds2,train,False,ok
+ds2_train_P2024.jpg,P2024.jpg,Profrauof,,unknown,ds2,train,False,ok
+ds2_train_P2347.jpg,P2347.jpg,Zymat Pro,,unknown,ds2,train,False,ok
+ds1_train_1989.png,1989.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds1_val_655.png,655.png,Renova,Paracetamol,source,ds1,val,False,ok
+ds2_train_P1987.jpg,P1987.jpg,Cildip,,unknown,ds2,train,False,ok
+ds2_train_P1614.jpg,P1614.jpg,TAB. OUOCM-D,,unknown,ds2,train,False,ok
+ds2_train_P2535.jpg,P2535.jpg,Pirulin,,unknown,ds2,train,False,ok
+ds1_train_2040.png,2040.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P1319.jpg,P1319.jpg,Tab. Algin,,unknown,ds2,train,False,ok
+ds1_test_315.png,315.png,Fexo,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P1583.jpg,P1583.jpg,Bex 10,,unknown,ds2,train,True,ok
+ds2_train_P1523.jpg,P1523.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_2315.png,2315.png,Nexum,Esomeprazole,source,ds1,train,False,ok
+ds2_test_P0679.jpg,P0679.jpg,Neuroxen,,unknown,ds2,test,False,ok
+ds1_train_539.png,539.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds2_train_P1272.jpg,P1272.jpg,Nufw,,unknown,ds2,train,False,ok
+ds2_test_P0192.jpg,P0192.jpg,Limtab,,unknown,ds2,test,False,ok
+ds2_train_P2804.jpg,P2804.jpg,Lacfu,,unknown,ds2,train,False,ok
+ds1_val_362.png,362.png,Flexilax,Baclofen,source,ds1,val,False,ok
+ds2_train_P3736.jpg,P3736.jpg,Vancomycin,,unknown,ds2,train,False,ok
+ds2_train_P4445.jpg,P4445.jpg,Tablet,,unknown,ds2,train,False,ok
+ds2_train_P1958.jpg,P1958.jpg,Terbi max,,unknown,ds2,train,False,ok
+ds1_train_215.png,215.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2306.png,2306.png,Nexum,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1739.jpg,P1739.jpg,BEKLO,Baclofen,auto,ds2,train,False,ok
+ds1_train_1555.png,1555.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P2705.jpg,P2705.jpg,Profen,,unknown,ds2,train,False,ok
+ds1_train_769.png,769.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_train_987.png,987.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds1_train_2808.png,2808.png,Rozith,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_2999.png,2999.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_797.png,797.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds2_train_P4082.jpg,P4082.jpg,Montelukast,,unknown,ds2,train,False,ok
+ds2_train_P4013.jpg,P4013.jpg,Voltalin,,unknown,ds2,train,False,ok
+ds2_train_P2733.jpg,P2733.jpg,Fexit,,unknown,ds2,train,False,ok
+ds2_test_P0124.jpg,P0124.jpg,TRD Couture,,unknown,ds2,test,False,ok
+ds1_train_1819.png,1819.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P4406.jpg,P4406.jpg,Capsule,,unknown,ds2,train,False,ok
+ds1_train_3069.png,3069.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_val_566.png,566.png,Nexcap,Esomeprazole,source,ds1,val,False,ok
+ds1_test_369.png,369.png,Flexilax,Baclofen,source,ds1,test,False,ok
+ds2_train_P3898.jpg,P3898.jpg,Tablet,,unknown,ds2,train,False,ok
+ds2_train_P3756.jpg,P3756.jpg,Algin,,unknown,ds2,train,False,ok
+ds2_train_P3391.jpg,P3391.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P3104.jpg,P3104.jpg,Telecordip plus,,unknown,ds2,train,False,ok
+ds2_train_P4449.jpg,P4449.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_train_1890.png,1890.png,Maxpro,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2972.png,2972.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P2908.jpg,P2908.jpg,Algin,,unknown,ds2,train,False,ok
+ds1_train_1358.png,1358.png,Fixal,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1639.png,1639.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds2_train_P2839.jpg,P2839.jpg,Beconal,,unknown,ds2,train,False,ok
+ds1_train_2766.png,2766.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds1_test_155.png,155.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,test,False,ok
+ds2_train_P4202.jpg,P4202.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds1_test_419.png,419.png,Ketozol,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds2_train_P3008.jpg,P3008.jpg,Anadol,,unknown,ds2,train,False,ok
+ds2_train_P1603.jpg,P1603.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_2779.png,2779.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds2_train_P1747.jpg,P1747.jpg,Tab. Calbo,,unknown,ds2,train,False,ok
+ds2_train_P4160.jpg,P4160.jpg,Nimifete,,unknown,ds2,train,False,ok
+ds2_test_P0861.jpg,P0861.jpg,Calboral,,unknown,ds2,test,False,ok
+ds1_test_655.png,655.png,Renova,Paracetamol,source,ds1,test,False,ok
+ds2_train_P3484.jpg,P3484.jpg,Emistat,,unknown,ds2,train,False,ok
+ds2_test_P0171.jpg,P0171.jpg,Trilock 10,,unknown,ds2,test,True,ok
+ds2_test_P0203.jpg,P0203.jpg,Beklo,Baclofen,auto,ds2,test,False,ok
+ds1_train_112.png,112.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1660.jpg,P1660.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds1_val_134.png,134.png,Bacmax,Baclofen,source,ds1,val,False,ok
+ds1_train_1458.png,1458.png,Flexilax,Baclofen,source,ds1,train,False,ok
+ds2_train_P1242.jpg,P1242.jpg,Cildip,,unknown,ds2,train,False,ok
+ds2_test_P0623.jpg,P0623.jpg,Bexter,,unknown,ds2,test,False,ok
+ds2_test_P0423.jpg,P0423.jpg,Itokine,,unknown,ds2,test,False,ok
+ds2_train_P5041.jpg,P5041.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds2_test_P0666.jpg,P0666.jpg,Naproxen,,unknown,ds2,test,False,ok
+ds1_train_2205.png,2205.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds1_train_2866.png,2866.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2898.png,2898.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds2_train_P2980.jpg,P2980.jpg,Montene,Montelukast Sodium,auto,ds2,train,False,ok
+ds2_train_P2810.jpg,P2810.jpg,Myolax,,unknown,ds2,train,False,ok
+ds1_train_2744.png,2744.png,Rivotril,Clonazepam,source,ds1,train,False,ok
+ds1_test_490.png,490.png,Metsina,Metronidazole,source,ds1,test,False,ok
+ds1_train_1079.png,1079.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2654.jpg,P2654.jpg,A-flux,,unknown,ds2,train,False,ok
+ds1_test_468.png,468.png,Maxima,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P3131.jpg,P3131.jpg,Fluelox,,unknown,ds2,train,False,ok
+ds2_test_P0839.jpg,P0839.jpg,Calboral-DX,,unknown,ds2,test,False,ok
+ds2_test_P0321.jpg,P0321.jpg,Itogut,,unknown,ds2,test,False,ok
+ds1_val_413.png,413.png,Ketozol,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds1_test_309.png,309.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P3570.jpg,P3570.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P2829.jpg,P2829.jpg,Clofenal,,unknown,ds2,train,False,ok
+ds2_train_P3400.jpg,P3400.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_train_1445.png,1445.png,Flexilax,Baclofen,source,ds1,train,False,ok
+ds2_train_P3934.jpg,P3934.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P1255.jpg,P1255.jpg,Suzyme,,unknown,ds2,train,False,ok
+ds2_train_P3766.jpg,P3766.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P3663.jpg,P3663.jpg,Diet,,unknown,ds2,train,False,ok
+ds2_test_P0051.jpg,P0051.jpg,VASCO,,unknown,ds2,test,False,ok
+ds2_train_P1322.jpg,P1322.jpg,Tab. Etorx,,unknown,ds2,train,False,ok
+ds1_train_2868.png,2868.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P5318.jpg,P5318.jpg,montene,Montelukast Sodium,auto,ds2,train,False,ok
+ds1_train_2368.png,2368.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds1_val_5.png,5.png,Aceta,Paracetamol,source,ds1,val,False,ok
+ds2_test_P0875.jpg,P0875.jpg,Calboral,,unknown,ds2,test,False,ok
+ds1_test_681.png,681.png,Rivotril,Clonazepam,source,ds1,test,False,ok
+ds2_train_P1218.jpg,P1218.jpg,Norium,,unknown,ds2,train,False,ok
+ds2_train_P2095.jpg,P2095.jpg,Cildip 5,,unknown,ds2,train,True,ok
+ds2_train_P1273.jpg,P1273.jpg,Zymetpro,,unknown,ds2,train,False,ok
+ds2_train_P3291.jpg,P3291.jpg,Metronidazole,,unknown,ds2,train,False,ok
+ds2_train_P1276.jpg,P1276.jpg,Tomdolin,,unknown,ds2,train,False,ok
+ds1_val_234.png,234.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds1_train_502.png,502.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds2_train_P3707.jpg,P3707.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P4458.jpg,P4458.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P4784.jpg,P4784.jpg,nalbun 2,,unknown,ds2,train,True,ok
+ds1_train_147.png,147.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4068.jpg,P4068.jpg,Capsule,,unknown,ds2,train,False,ok
+ds1_test_728.png,728.png,Tamen,Paracetamol,source,ds1,test,False,ok
+ds2_train_P3529.jpg,P3529.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_94.png,94.png,Bacaid,Baclofen,source,ds1,test,False,ok
+ds1_train_938.png,938.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_test_216.png,216.png,Denixil,Clonazepam,source,ds1,test,False,ok
+ds2_train_P3576.jpg,P3576.jpg,Emistat,,unknown,ds2,train,False,ok
+ds1_train_2679.png,2679.png,Rhinil,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_val_578.png,578.png,Nexum,Esomeprazole,source,ds1,val,False,ok
+ds1_train_362.png,362.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds1_val_550.png,550.png,Napa,Paracetamol,source,ds1,val,False,ok
+ds2_test_P0450.jpg,P0450.jpg,Raditril,,unknown,ds2,test,False,ok
+ds1_train_924.png,924.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_test_489.png,489.png,Metro,Metronidazole,source,ds1,test,False,ok
+ds1_train_4.png,4.png,Aceta,Paracetamol,source,ds1,train,False,ok
+ds1_train_1673.png,1673.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_val_588.png,588.png,Nidazyl,Metronidazole,source,ds1,val,False,ok
+ds1_train_2537.png,2537.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds1_train_404.png,404.png,Backtone,Baclofen,source,ds1,train,False,ok
+ds1_train_2001.png,2001.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_2376.png,2376.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_train_P1189.jpg,P1189.jpg,Aislof max,,unknown,ds2,train,False,ok
+ds1_train_1016.png,1016.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2275.png,2275.png,Nexcap,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3784.jpg,P3784.jpg,Syrup,,unknown,ds2,train,False,ok
+ds2_train_P1842.jpg,P1842.jpg,Neuroxen,,unknown,ds2,train,False,ok
+ds2_train_P4214.jpg,P4214.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_500.png,500.png,Monas,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P1646.jpg,P1646.jpg,Derolon,,unknown,ds2,train,False,ok
+ds1_train_1944.png,1944.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0133.jpg,P0133.jpg,Cidex,,unknown,ds2,test,False,ok
+ds1_train_2568.png,2568.png,Provair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_302.png,302.png,Azyth,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_327.png,327.png,Az,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_922.png,922.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3525.jpg,P3525.jpg,Capsule,,unknown,ds2,train,False,ok
+ds1_test_708.png,708.png,Rozith,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_train_P2938.jpg,P2938.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds1_train_1605.png,1605.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_train_2853.png,2853.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds1_val_158.png,158.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,val,False,ok
+ds2_train_P2694.jpg,P2694.jpg,Calboral Dx,,unknown,ds2,train,False,ok
+ds1_train_3055.png,3055.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2017.png,2017.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1700.png,1700.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds2_train_P2639.jpg,P2639.jpg,Ceevit,,unknown,ds2,train,False,ok
+ds1_train_645.png,645.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds1_val_514.png,514.png,Montair,Montelukast Sodium,source,ds1,val,False,ok
+ds1_train_98.png,98.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1392.jpg,P1392.jpg,Tb. Defrol,,unknown,ds2,train,False,ok
+ds2_test_P0360.jpg,P0360.jpg,Normant,,unknown,ds2,test,False,ok
+ds2_train_P1914.jpg,P1914.jpg,Callin,,unknown,ds2,train,False,ok
+ds1_train_1529.png,1529.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_477.png,477.png,Baclofen,Baclofen,source,ds1,train,False,ok
+ds1_train_1865.png,1865.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2267.jpg,P2267.jpg,Becobion,,unknown,ds2,train,False,ok
+ds2_train_P1522.jpg,P1522.jpg,Greenox,,unknown,ds2,train,False,ok
+ds1_train_659.png,659.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds2_train_P2174.jpg,P2174.jpg,Nexe,,unknown,ds2,train,False,ok
+ds1_val_177.png,177.png,Candinil,Fluconazole,source,ds1,val,False,ok
+ds2_train_P2061.jpg,P2061.jpg,volirac max,,unknown,ds2,train,False,ok
+ds2_train_P1382.jpg,P1382.jpg,lullonl Dx,,unknown,ds2,train,False,ok
+ds2_test_P0808.jpg,P0808.jpg,Folzin,,unknown,ds2,test,False,ok
+ds1_train_1631.png,1631.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_train_2294.png,2294.png,Nexum,Esomeprazole,source,ds1,train,False,ok
+ds2_test_P0920.jpg,P0920.jpg,Amitip,,unknown,ds2,test,False,ok
+ds2_train_P4781.jpg,P4781.jpg,5% dns,,unknown,ds2,train,True,ok
+ds2_test_P0567.jpg,P0567.jpg,Lyric,,unknown,ds2,test,False,ok
+ds2_train_P4036.jpg,P4036.jpg,Sergel,Esomeprazole,auto,ds2,train,False,ok
+ds2_test_P0531.jpg,P0531.jpg,Sardopa,,unknown,ds2,test,False,ok
+ds1_train_2324.png,2324.png,Nidazyl,Metronidazole,source,ds1,train,False,ok
+ds1_train_2039.png,2039.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1300.png,1300.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds1_train_2231.png,2231.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds2_train_P2191.jpg,P2191.jpg,Rolae,,unknown,ds2,train,False,ok
+ds2_train_P4462.jpg,P4462.jpg,Metro,Metronidazole,auto,ds2,train,False,ok
+ds1_train_745.png,745.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1298.jpg,P1298.jpg,Tab. Naprox,,unknown,ds2,train,False,ok
+ds1_val_614.png,614.png,Omastin,Fluconazole,source,ds1,val,False,ok
+ds2_train_P2181.jpg,P2181.jpg,Tryptin,,unknown,ds2,train,False,ok
+ds1_test_731.png,731.png,Telfast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P1592.jpg,P1592.jpg,Dexter 60,,unknown,ds2,train,True,ok
+ds1_train_1333.png,1333.png,Fixal,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_3097.png,3097.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_524.png,524.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds2_train_P2849.jpg,P2849.jpg,Remmo,,unknown,ds2,train,False,ok
+ds2_train_P3903.jpg,P3903.jpg,Vifas,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds2_train_P2273.jpg,P2273.jpg,Motigut,,unknown,ds2,train,False,ok
+ds1_train_326.png,326.png,Az,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P2150.jpg,P2150.jpg,Febun,,unknown,ds2,train,False,ok
+ds2_test_P0368.jpg,P0368.jpg,Flamex,,unknown,ds2,test,False,ok
+ds2_train_P2364.jpg,P2364.jpg,Maxima,Esomeprazole,auto,ds2,train,False,ok
+ds2_train_P4869.jpg,P4869.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds1_train_848.png,848.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_train_537.png,537.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds2_train_P3546.jpg,P3546.jpg,Cefuroximee,,unknown,ds2,train,False,ok
+ds2_train_P3004.jpg,P3004.jpg,Rolac,,unknown,ds2,train,False,ok
+ds2_train_P3241.jpg,P3241.jpg,Anodol,,unknown,ds2,train,False,ok
+ds2_test_P0063.jpg,P0063.jpg,Indever,,unknown,ds2,test,False,ok
+ds1_train_2061.png,2061.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_val_243.png,243.png,Disopan,Clonazepam,source,ds1,val,False,ok
+ds2_train_P2460.jpg,P2460.jpg,Nervoprx,,unknown,ds2,train,False,ok
+ds2_test_P0223.jpg,P0223.jpg,Neuming,,unknown,ds2,test,False,ok
+ds1_test_658.png,658.png,Renova,Paracetamol,source,ds1,test,False,ok
+ds1_test_465.png,465.png,Maxima,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P3939.jpg,P3939.jpg,Normal,,unknown,ds2,train,False,ok
+ds1_train_1870.png,1870.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_train_164.png,164.png,Atrizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2502.jpg,P2502.jpg,Defalin,,unknown,ds2,train,False,ok
+ds2_train_P4616.jpg,P4616.jpg,xinc b,,unknown,ds2,train,False,ok
+ds1_test_325.png,325.png,Filmet,Metronidazole,source,ds1,test,False,ok
+ds2_train_P2133.jpg,P2133.jpg,Rivotril,Clonazepam,auto,ds2,train,False,ok
+ds1_val_411.png,411.png,Ketozol,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds2_train_P1954.jpg,P1954.jpg,Estes,,unknown,ds2,train,False,ok
+ds1_train_2613.png,2613.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0195.jpg,P0195.jpg,Indever 20,,unknown,ds2,test,True,ok
+ds1_train_1243.png,1243.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2160.png,2160.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds2_train_P1365.jpg,P1365.jpg,Tab. Naprox,,unknown,ds2,train,False,ok
+ds2_train_P4182.jpg,P4182.jpg,Insulin R,,unknown,ds2,train,False,ok
+ds1_train_5.png,5.png,Aceta,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0126.jpg,P0126.jpg,Esotid,,unknown,ds2,test,False,ok
+ds1_val_482.png,482.png,Metro,Metronidazole,source,ds1,val,False,ok
+ds1_train_2551.png,2551.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds2_test_P0753.jpg,P0753.jpg,Amlip,,unknown,ds2,test,False,ok
+ds2_train_P3694.jpg,P3694.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_2888.png,2888.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds2_train_P2014.jpg,P2014.jpg,Feusiv,,unknown,ds2,train,False,ok
+ds1_train_1851.png,1851.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_val_464.png,464.png,Maxima,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P2871.jpg,P2871.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P2954.jpg,P2954.jpg,Calcor-D,,unknown,ds2,train,False,ok
+ds1_train_1755.png,1755.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds2_train_P1305.jpg,P1305.jpg,Tab. Beklo,,unknown,ds2,train,False,ok
+ds2_train_P2666.jpg,P2666.jpg,Megulol,,unknown,ds2,train,False,ok
+ds1_train_732.png,732.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0024.jpg,P0024.jpg,Dexter,,unknown,ds2,test,False,ok
+ds1_train_2541.png,2541.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds2_test_P0871.jpg,P0871.jpg,Naprox,,unknown,ds2,test,False,ok
+ds2_train_P1745.jpg,P1745.jpg,Neuroxen,,unknown,ds2,train,False,ok
+ds2_train_P2924.jpg,P2924.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P3905.jpg,P3905.jpg,Diet,,unknown,ds2,train,False,ok
+ds2_test_P0086.jpg,P0086.jpg,Voligel,,unknown,ds2,test,False,ok
+ds2_train_P2920.jpg,P2920.jpg,Nexum,Esomeprazole,auto,ds2,train,False,ok
+ds2_train_P1496.jpg,P1496.jpg,Prindof,,unknown,ds2,train,False,ok
+ds2_test_P0441.jpg,P0441.jpg,Nexe,,unknown,ds2,test,False,ok
+ds2_train_P3403.jpg,P3403.jpg,Fexo,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds1_train_1066.png,1066.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2327.png,2327.png,Nidazyl,Metronidazole,source,ds1,train,False,ok
+ds2_train_P1820.jpg,P1820.jpg,Doxoven,,unknown,ds2,train,False,ok
+ds2_train_P3090.jpg,P3090.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds1_train_663.png,663.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds2_train_P3565.jpg,P3565.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_1879.png,1879.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_train_846.png,846.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_val_332.png,332.png,Fixal,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds1_test_364.png,364.png,Flexilax,Baclofen,source,ds1,test,False,ok
+ds1_train_1203.png,1203.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_test_175.png,175.png,Candinil,Fluconazole,source,ds1,test,False,ok
+ds1_train_1287.png,1287.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2008.jpg,P2008.jpg,Don A,,unknown,ds2,train,False,ok
+ds1_val_572.png,572.png,Nexum,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P3040.jpg,P3040.jpg,Flugal,Fluconazole,auto,ds2,train,False,ok
+ds1_train_2151.png,2151.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P3207.jpg,P3207.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds1_train_2993.png,2993.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_val_207.png,207.png,Dancel,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds1_train_2180.png,2180.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds1_test_217.png,217.png,Denixil,Clonazepam,source,ds1,test,False,ok
+ds2_test_P0519.jpg,P0519.jpg,Raditil,,unknown,ds2,test,False,ok
+ds2_train_P3205.jpg,P3205.jpg,Fuclav,,unknown,ds2,train,False,ok
+ds2_train_P3142.jpg,P3142.jpg,Biltin,,unknown,ds2,train,False,ok
+ds1_train_688.png,688.png,Candinil,Fluconazole,source,ds1,train,False,ok
+ds1_train_260.png,260.png,Azithrocin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P4312.jpg,P4312.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_val_331.png,331.png,Fixal,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds1_train_1687.png,1687.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_train_1931.png,1931.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds1_test_285.png,285.png,Exium,Esomeprazole,source,ds1,test,False,ok
+ds1_train_2209.png,2209.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0555.jpg,P0555.jpg,Seko,,unknown,ds2,test,False,ok
+ds1_train_165.png,165.png,Atrizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_val_505.png,505.png,Monas,Montelukast Sodium,source,ds1,val,False,ok
+ds1_train_2861.png,2861.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1781.png,1781.png,Lumona,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_129.png,129.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_test_269.png,269.png,Esoral,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P2874.jpg,P2874.jpg,Maxima,Esomeprazole,auto,ds2,train,False,ok
+ds1_test_215.png,215.png,Denixil,Clonazepam,source,ds1,test,False,ok
+ds2_train_P3944.jpg,P3944.jpg,Fexofenadinee,,unknown,ds2,train,False,ok
+ds1_train_193.png,193.png,Atrizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3259.jpg,P3259.jpg,Meropenem,,unknown,ds2,train,False,ok
+ds2_train_P1642.jpg,P1642.jpg,Ferix-V,,unknown,ds2,train,False,ok
+ds1_test_30.png,30.png,Amodis,Metronidazole,source,ds1,test,False,ok
+ds1_val_330.png,330.png,Fixal,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds1_train_1002.png,1002.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P4265.jpg,P4265.jpg,Capsule,,unknown,ds2,train,False,ok
+ds2_train_P5235.jpg,P5235.jpg,lanso max,,unknown,ds2,train,False,ok
+ds2_train_P4135.jpg,P4135.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds1_train_2768.png,2768.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds2_train_P3379.jpg,P3379.jpg,Ceevit,,unknown,ds2,train,False,ok
+ds1_val_501.png,501.png,Monas,Montelukast Sodium,source,ds1,val,False,ok
+ds2_train_P2400.jpg,P2400.jpg,VoxBone,,unknown,ds2,train,False,ok
+ds2_train_P1580.jpg,P1580.jpg,Revere,,unknown,ds2,train,False,ok
+ds2_train_P3676.jpg,P3676.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P1756.jpg,P1756.jpg,Hermoquf,,unknown,ds2,train,False,ok
+ds2_train_P3893.jpg,P3893.jpg,Sergel,Esomeprazole,auto,ds2,train,False,ok
+ds2_test_P0438.jpg,P0438.jpg,Brezofil,,unknown,ds2,test,False,ok
+ds2_train_P4360.jpg,P4360.jpg,Feryx,,unknown,ds2,train,False,ok
+ds2_test_P0516.jpg,P0516.jpg,Napa,Paracetamol,auto,ds2,test,False,ok
+ds2_test_P0790.jpg,P0790.jpg,Neuro,,unknown,ds2,test,False,ok
+ds1_train_1252.png,1252.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P5337.jpg,P5337.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds2_test_P0459.jpg,P0459.jpg,Tuspel,,unknown,ds2,test,False,ok
+ds1_train_2105.png,2105.png,Montene,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1166.png,1166.png,Fenadin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0893.jpg,P0893.jpg,D Cap,,unknown,ds2,test,False,ok
+ds2_train_P1364.jpg,P1364.jpg,cap. Fzsprazo,,unknown,ds2,train,False,ok
+ds2_train_P4341.jpg,P4341.jpg,Meropenem,,unknown,ds2,train,False,ok
+ds2_train_P2747.jpg,P2747.jpg,Esmax,,unknown,ds2,train,False,ok
+ds1_test_611.png,611.png,Omastin,Fluconazole,source,ds1,test,False,ok
+ds1_train_2261.png,2261.png,Nexcap,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1250.png,1250.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2646.jpg,P2646.jpg,Flubex,,unknown,ds2,train,False,ok
+ds2_train_P4332.jpg,P4332.jpg,Ketorolac,,unknown,ds2,train,False,ok
+ds1_train_2851.png,2851.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1616.jpg,P1616.jpg,Toramex 10,,unknown,ds2,train,True,ok
+ds2_train_P2734.jpg,P2734.jpg,Fexit,,unknown,ds2,train,False,ok
+ds1_train_1855.png,1855.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_val_517.png,517.png,Montair,Montelukast Sodium,source,ds1,val,False,ok
+ds2_train_P1433.jpg,P1433.jpg,Nafumef,,unknown,ds2,train,False,ok
+ds1_train_1202.png,1202.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2677.jpg,P2677.jpg,Lacto,,unknown,ds2,train,False,ok
+ds2_train_P2811.jpg,P2811.jpg,Cefaclav,,unknown,ds2,train,False,ok
+ds1_test_411.png,411.png,Ketozol,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds2_train_P3708.jpg,P3708.jpg,Tablet,,unknown,ds2,train,False,ok
+ds2_train_P4074.jpg,P4074.jpg,Cefuroxime,,unknown,ds2,train,False,ok
+ds1_train_1750.png,1750.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds1_train_2343.png,2343.png,Nidazyl,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0466.jpg,P0466.jpg,Furotil,,unknown,ds2,test,False,ok
+ds2_train_P3641.jpg,P3641.jpg,CBC,,unknown,ds2,train,False,ok
+ds1_val_122.png,122.png,Baclon,Baclofen,source,ds1,val,False,ok
+ds2_test_P0402.jpg,P0402.jpg,Tarlica,,unknown,ds2,test,False,ok
+ds2_test_P0452.jpg,P0452.jpg,Esohil,,unknown,ds2,test,False,ok
+ds2_train_P1488.jpg,P1488.jpg,Dexter,,unknown,ds2,train,False,ok
+ds2_train_P1655.jpg,P1655.jpg,N-Max,,unknown,ds2,train,False,ok
+ds2_train_P3275.jpg,P3275.jpg,Nacl,,unknown,ds2,train,False,ok
+ds1_test_766.png,766.png,Vifas,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P2313.jpg,P2313.jpg,Othera,,unknown,ds2,train,False,ok
+ds2_train_P1389.jpg,P1389.jpg,Tab. Rupa,,unknown,ds2,train,False,ok
+ds2_train_P1841.jpg,P1841.jpg,Dexter,,unknown,ds2,train,False,ok
+ds2_train_P1771.jpg,P1771.jpg,Feufiv,,unknown,ds2,train,False,ok
+ds1_val_370.png,370.png,Flugal,Fluconazole,source,ds1,val,False,ok
+ds1_train_255.png,255.png,Azithrocin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P1927.jpg,P1927.jpg,Zox,,unknown,ds2,train,False,ok
+ds1_train_262.png,262.png,Azithrocin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_728.png,728.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1619.png,1619.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds2_train_P2803.jpg,P2803.jpg,Spilac,,unknown,ds2,train,False,ok
+ds1_test_774.png,774.png,Zithrin,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_train_P3186.jpg,P3186.jpg,Renova,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P2296.jpg,P2296.jpg,Doxiva,,unknown,ds2,train,False,ok
+ds1_train_2145.png,2145.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0820.jpg,P0820.jpg,Neuro,,unknown,ds2,test,False,ok
+ds1_train_40.png,40.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds1_test_752.png,752.png,Trilock,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P2447.jpg,P2447.jpg,Momvit,,unknown,ds2,train,False,ok
+ds2_train_P4059.jpg,P4059.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_160.png,160.png,Canazole,Fluconazole,source,ds1,test,False,ok
+ds2_test_P0129.jpg,P0129.jpg,Montelon,,unknown,ds2,test,False,ok
+ds2_train_P2888.jpg,P2888.jpg,Deslor,,unknown,ds2,train,False,ok
+ds2_train_P3409.jpg,P3409.jpg,Actrapid,,unknown,ds2,train,False,ok
+ds2_train_P2641.jpg,P2641.jpg,Sergel,Esomeprazole,auto,ds2,train,False,ok
+ds2_test_P1042.jpg,P1042.jpg,Zymet,,unknown,ds2,test,False,ok
+ds2_train_P2354.jpg,P2354.jpg,Axim CV,,unknown,ds2,train,False,ok
+ds2_train_P3646.jpg,P3646.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_2539.png,2539.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2537.jpg,P2537.jpg,Texit,,unknown,ds2,train,False,ok
+ds1_train_1311.png,1311.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4227.jpg,P4227.jpg,Capsule,,unknown,ds2,train,False,ok
+ds2_train_P3791.jpg,P3791.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P3133.jpg,P3133.jpg,Montelukast,,unknown,ds2,train,False,ok
+ds1_train_2308.png,2308.png,Nexum,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1686.jpg,P1686.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds1_train_510.png,510.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds1_train_516.png,516.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds1_val_274.png,274.png,Etizin,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P1451.jpg,P1451.jpg,Sefra,,unknown,ds2,train,False,ok
+ds1_train_815.png,815.png,Dancel,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P3531.jpg,P3531.jpg,Vasco,,unknown,ds2,train,False,ok
+ds1_train_34.png,34.png,Aceta,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0673.jpg,P0673.jpg,Fenadin,Fexofenadine Hydrochloride,auto,ds2,test,False,ok
+ds1_train_2616.png,2616.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds1_train_1648.png,1648.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P2750.jpg,P2750.jpg,Nexe,,unknown,ds2,train,False,ok
+ds1_train_1828.png,1828.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_133.png,133.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_val_567.png,567.png,Nexcap,Esomeprazole,source,ds1,val,False,ok
+ds1_test_597.png,597.png,Nizoder,Ketoconazole (Cream),source,ds1,test,False,ok
+ds2_train_P2620.jpg,P2620.jpg,X-fen,,unknown,ds2,train,False,ok
+ds1_test_288.png,288.png,Exium,Esomeprazole,source,ds1,test,False,ok
+ds1_train_2391.png,2391.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_train_P4324.jpg,P4324.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds1_train_2190.png,2190.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds1_train_1148.png,1148.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3044.jpg,P3044.jpg,Calcor-Dx,,unknown,ds2,train,False,ok
+ds1_train_1314.png,1314.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds1_train_675.png,675.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds1_train_236.png,236.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3354.jpg,P3354.jpg,Monas,Montelukast Sodium,auto,ds2,train,False,ok
+ds1_train_2891.png,2891.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds2_train_P3336.jpg,P3336.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_train_1301.png,1301.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds1_train_735.png,735.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_val_436.png,436.png,Lucan-R,Fluconazole,source,ds1,val,False,ok
+ds2_train_P2941.jpg,P2941.jpg,Nexum,Esomeprazole,auto,ds2,train,False,ok
+ds1_train_3005.png,3005.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1201.png,1201.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3809.jpg,P3809.jpg,Syrup,,unknown,ds2,train,False,ok
+ds2_train_P1454.jpg,P1454.jpg,Rexlife,,unknown,ds2,train,False,ok
+ds2_train_P2767.jpg,P2767.jpg,Phylopen-Ds,,unknown,ds2,train,False,ok
+ds1_val_628.png,628.png,Opton,Esomeprazole,source,ds1,val,False,ok
+ds1_test_222.png,222.png,Diflu,Fluconazole,source,ds1,test,False,ok
+ds2_train_P1839.jpg,P1839.jpg,Gintex,,unknown,ds2,train,False,ok
+ds2_train_P2279.jpg,P2279.jpg,Algin,,unknown,ds2,train,False,ok
+ds2_train_P3374.jpg,P3374.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P2108.jpg,P2108.jpg,Efodio,,unknown,ds2,train,False,ok
+ds2_train_P2617.jpg,P2617.jpg,Profenid Gell,,unknown,ds2,train,False,ok
+ds1_train_2054.png,2054.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P4477.jpg,P4477.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_2397.png,2397.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_test_P0470.jpg,P0470.jpg,Itokine,,unknown,ds2,test,False,ok
+ds2_test_P1018.jpg,P1018.jpg,Denixil,Clonazepam,auto,ds2,test,False,ok
+ds2_train_P3109.jpg,P3109.jpg,Fenadin,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds2_train_P1622.jpg,P1622.jpg,Dexter 60,,unknown,ds2,train,True,ok
+ds1_train_1470.png,1470.png,Flexilax,Baclofen,source,ds1,train,False,ok
+ds1_test_571.png,571.png,Nexum,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P5510.jpg,P5510.jpg,filmet,Metronidazole,auto,ds2,train,False,ok
+ds2_train_P3162.jpg,P3162.jpg,Resfazit,,unknown,ds2,train,False,ok
+ds2_train_P4923.jpg,P4923.jpg,xinc b,,unknown,ds2,train,False,ok
+ds1_test_179.png,179.png,Candinil,Fluconazole,source,ds1,test,False,ok
+ds1_train_2360.png,2360.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds1_test_360.png,360.png,Flexilax,Baclofen,source,ds1,test,False,ok
+ds2_test_P1010.jpg,P1010.jpg,Dexter,,unknown,ds2,test,False,ok
+ds1_train_1920.png,1920.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds1_val_503.png,503.png,Monas,Montelukast Sodium,source,ds1,val,False,ok
+ds2_train_P4327.jpg,P4327.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_val_625.png,625.png,Opton,Esomeprazole,source,ds1,val,False,ok
+ds1_val_109.png,109.png,Backtone,Baclofen,source,ds1,val,False,ok
+ds1_train_2546.png,2546.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2945.png,2945.png,Telfast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0179.jpg,P0179.jpg,Clavutil,,unknown,ds2,test,False,ok
+ds1_val_361.png,361.png,Flexilax,Baclofen,source,ds1,val,False,ok
+ds2_test_P0106.jpg,P0106.jpg,Vonocab,,unknown,ds2,test,False,ok
+ds1_train_1719.png,1719.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_train_935.png,935.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2422.jpg,P2422.jpg,Filofer,,unknown,ds2,train,False,ok
+ds1_train_1396.png,1396.png,Flamyd,Metronidazole,source,ds1,train,False,ok
+ds1_train_701.png,701.png,Candinil,Fluconazole,source,ds1,train,False,ok
+ds1_train_131.png,131.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_test_607.png,607.png,Odmon,Montelukast Sodium,source,ds1,test,False,ok
+ds2_test_P0803.jpg,P0803.jpg,Naprox,,unknown,ds2,test,False,ok
+ds2_train_P4196.jpg,P4196.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_test_P0716.jpg,P0716.jpg,Bislol,,unknown,ds2,test,False,ok
+ds2_train_P4413.jpg,P4413.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_test_284.png,284.png,Exium,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P2209.jpg,P2209.jpg,Ferix-V,,unknown,ds2,train,False,ok
+ds2_test_P0067.jpg,P0067.jpg,Profenid Gel,,unknown,ds2,test,False,ok
+ds2_train_P3212.jpg,P3212.jpg,Fexofast,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds2_test_P0240.jpg,P0240.jpg,Coralgue D,,unknown,ds2,test,False,ok
+ds1_train_375.png,375.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_test_P0357.jpg,P0357.jpg,Katomor,,unknown,ds2,test,False,ok
+ds1_train_1401.png,1401.png,Flexibac,Baclofen,source,ds1,train,False,ok
+ds1_test_624.png,624.png,Opton,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P3399.jpg,P3399.jpg,Algin,,unknown,ds2,train,False,ok
+ds2_train_P3661.jpg,P3661.jpg,Emistat,,unknown,ds2,train,False,ok
+ds1_train_1528.png,1528.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P4136.jpg,P4136.jpg,Normal,,unknown,ds2,train,False,ok
+ds1_train_832.png,832.png,Dancel,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_1039.png,1039.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1968.png,1968.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds1_val_438.png,438.png,Lucan-R,Fluconazole,source,ds1,val,False,ok
+ds2_test_P0358.jpg,P0358.jpg,Purtisol,,unknown,ds2,test,False,ok
+ds2_test_P0684.jpg,P0684.jpg,Dexter,,unknown,ds2,test,False,ok
+ds2_train_P3284.jpg,P3284.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds2_train_P1810.jpg,P1810.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_test_196.png,196.png,Conaz,Fluconazole,source,ds1,test,False,ok
+ds2_train_P3735.jpg,P3735.jpg,Nasal,,unknown,ds2,train,False,ok
+ds1_test_771.png,771.png,Zithrin,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_test_P0544.jpg,P0544.jpg,Seko,,unknown,ds2,test,False,ok
+ds1_train_1214.png,1214.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_val_616.png,616.png,Omastin,Fluconazole,source,ds1,val,False,ok
+ds1_train_1147.png,1147.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3064.jpg,P3064.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds1_train_2062.png,2062.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1282.png,1282.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds1_train_1841.png,1841.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_val_21.png,21.png,Alatrol,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P3479.jpg,P3479.jpg,Emistat,,unknown,ds2,train,False,ok
+ds2_test_P0576.jpg,P0576.jpg,Bexitrol,,unknown,ds2,test,False,ok
+ds1_test_0.png,0.png,Aceta,Paracetamol,source,ds1,test,False,ok
+ds2_train_P4414.jpg,P4414.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_test_680.png,680.png,Rivotril,Clonazepam,source,ds1,test,False,ok
+ds1_train_1254.png,1254.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2394.png,2394.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_train_P2417.jpg,P2417.jpg,Cefaclav,,unknown,ds2,train,False,ok
+ds1_test_16.png,16.png,Ace,Paracetamol,source,ds1,test,False,ok
+ds2_train_P1262.jpg,P1262.jpg,Devixil,,unknown,ds2,train,False,ok
+ds1_val_610.png,610.png,Omastin,Fluconazole,source,ds1,val,False,ok
+ds2_train_P1715.jpg,P1715.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_2549.png,2549.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2079.jpg,P2079.jpg,Reelifr,,unknown,ds2,train,False,ok
+ds1_train_609.png,609.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,train,False,ok
+ds1_val_222.png,222.png,Diflu,Fluconazole,source,ds1,val,False,ok
+ds1_train_1523.png,1523.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_test_223.png,223.png,Diflu,Fluconazole,source,ds1,test,False,ok
+ds1_train_899.png,899.png,Diflu,Fluconazole,source,ds1,train,False,ok
+ds1_test_422.png,422.png,Leptic,Clonazepam,source,ds1,test,False,ok
+ds1_train_319.png,319.png,Azyth,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_1585.png,1585.png,Ketoral,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_train_1256.png,1256.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_197.png,197.png,Atrizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3215.jpg,P3215.jpg,Rolac,,unknown,ds2,train,False,ok
+ds2_train_P1941.jpg,P1941.jpg,Quridew,,unknown,ds2,train,False,ok
+ds2_train_P1612.jpg,P1612.jpg,TAB. BEKLO,,unknown,ds2,train,False,ok
+ds2_train_P2307.jpg,P2307.jpg,Zimax,,unknown,ds2,train,False,ok
+ds1_val_20.png,20.png,Alatrol,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P2326.jpg,P2326.jpg,Zimax,,unknown,ds2,train,False,ok
+ds2_train_P2231.jpg,P2231.jpg,Amitip,,unknown,ds2,train,False,ok
+ds1_train_774.png,774.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_val_320.png,320.png,Filmet,Metronidazole,source,ds1,val,False,ok
+ds2_train_P2188.jpg,P2188.jpg,Exium Mups,,unknown,ds2,train,False,ok
+ds2_test_P0333.jpg,P0333.jpg,Rodiflex,,unknown,ds2,test,False,ok
+ds2_train_P1678.jpg,P1678.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P2324.jpg,P2324.jpg,Nexum,Esomeprazole,auto,ds2,train,False,ok
+ds1_train_2538.png,2538.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3348.jpg,P3348.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P1684.jpg,P1684.jpg,Indever f,,unknown,ds2,train,False,ok
+ds1_train_3086.png,3086.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P4218.jpg,P4218.jpg,Normal,,unknown,ds2,train,False,ok
+ds2_train_P4104.jpg,P4104.jpg,Normal,,unknown,ds2,train,False,ok
+ds2_train_P2696.jpg,P2696.jpg,Flux,,unknown,ds2,train,False,ok
+ds1_train_2995.png,2995.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_1863.png,1863.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_test_438.png,438.png,Lucan-R,Fluconazole,source,ds1,test,False,ok
+ds1_train_1049.png,1049.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P4060.jpg,P4060.jpg,Unatin,,unknown,ds2,train,False,ok
+ds1_train_2687.png,2687.png,Ritch,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_364.png,364.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_test_P1078.jpg,P1078.jpg,Neugalin,,unknown,ds2,test,False,ok
+ds2_train_P2703.jpg,P2703.jpg,Ratinol Forte,,unknown,ds2,train,False,ok
+ds1_test_444.png,444.png,Lumona,Montelukast Sodium,source,ds1,test,False,ok
+ds1_train_766.png,766.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_test_641.png,641.png,Provair,Montelukast Sodium,source,ds1,test,False,ok
+ds1_train_1685.png,1685.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_test_397.png,397.png,Ketoral,Ketoconazole (Tablet),source,ds1,test,False,ok
+ds2_train_P1447.jpg,P1447.jpg,Devixi,,unknown,ds2,train,False,ok
+ds1_test_87.png,87.png,Az,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_test_P0197.jpg,P0197.jpg,Mervax,,unknown,ds2,test,False,ok
+ds1_train_971.png,971.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds1_train_1599.png,1599.png,Ketoral,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_val_180.png,180.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P4682.jpg,P4682.jpg,coral cal d,,unknown,ds2,train,False,ok
+ds1_train_2785.png,2785.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds1_train_1493.png,1493.png,Flugal,Fluconazole,source,ds1,train,False,ok
+ds1_train_1759.png,1759.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds2_test_P0884.jpg,P0884.jpg,Gestrenol,,unknown,ds2,test,False,ok
+ds2_train_P4418.jpg,P4418.jpg,Fexofenadinee,,unknown,ds2,train,False,ok
+ds1_train_2262.png,2262.png,Nexcap,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P5484.jpg,P5484.jpg,hpr ds,,unknown,ds2,train,False,ok
+ds1_train_1899.png,1899.png,Maxpro,Esomeprazole,source,ds1,train,False,ok
+ds1_train_235.png,235.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2981.png,2981.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_2058.png,2058.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_504.png,504.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds2_test_P0660.jpg,P0660.jpg,Gefapix,,unknown,ds2,test,False,ok
+ds1_train_119.png,119.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2783.jpg,P2783.jpg,Tofen,,unknown,ds2,train,False,ok
+ds1_train_520.png,520.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds1_train_1658.png,1658.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_1678.png,1678.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_test_P0196.jpg,P0196.jpg,Zo.mups 20,,unknown,ds2,test,True,ok
+ds2_train_P2556.jpg,P2556.jpg,Profinex,,unknown,ds2,train,False,ok
+ds1_test_161.png,161.png,Canazole,Fluconazole,source,ds1,test,False,ok
+ds2_train_P4897.jpg,P4897.jpg,nalbun 2,,unknown,ds2,train,True,ok
+ds2_train_P3637.jpg,P3637.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_test_P1085.jpg,P1085.jpg,Dexter,,unknown,ds2,test,False,ok
+ds1_train_2300.png,2300.png,Nexum,Esomeprazole,source,ds1,train,False,ok
+ds1_test_93.png,93.png,Bacaid,Baclofen,source,ds1,test,False,ok
+ds2_train_P3036.jpg,P3036.jpg,Desolon,,unknown,ds2,train,False,ok
+ds1_train_2041.png,2041.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0155.jpg,P0155.jpg,Follison,,unknown,ds2,test,False,ok
+ds2_train_P1513.jpg,P1513.jpg,Nafro A plm,,unknown,ds2,train,False,ok
+ds1_train_3099.png,3099.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_1217.png,1217.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1986.png,1986.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4006.jpg,P4006.jpg,Nasal,,unknown,ds2,train,False,ok
+ds1_val_629.png,629.png,Opton,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P4171.jpg,P4171.jpg,Ketorolac,,unknown,ds2,train,False,ok
+ds1_train_2739.png,2739.png,Rivotril,Clonazepam,source,ds1,train,False,ok
+ds1_train_391.png,391.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_test_P0079.jpg,P0079.jpg,Povital,,unknown,ds2,test,False,ok
+ds1_val_451.png,451.png,M-Kast,Montelukast Sodium,source,ds1,val,False,ok
+ds1_train_1280.png,1280.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0528.jpg,P0528.jpg,Nexpro,,unknown,ds2,test,False,ok
+ds1_train_2523.png,2523.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds1_val_649.png,649.png,Provair,Montelukast Sodium,source,ds1,val,False,ok
+ds2_train_P3662.jpg,P3662.jpg,Vorifast,,unknown,ds2,train,False,ok
+ds1_train_2745.png,2745.png,Rivotril,Clonazepam,source,ds1,train,False,ok
+ds2_test_P0412.jpg,P0412.jpg,Nebanol,,unknown,ds2,test,False,ok
+ds2_train_P3515.jpg,P3515.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P2519.jpg,P2519.jpg,Clavutil,,unknown,ds2,train,False,ok
+ds2_train_P1577.jpg,P1577.jpg,Rosu,,unknown,ds2,train,False,ok
+ds1_test_720.png,720.png,Tamen,Paracetamol,source,ds1,test,False,ok
+ds1_train_412.png,412.png,Backtone,Baclofen,source,ds1,train,False,ok
+ds1_train_2075.png,2075.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_488.png,488.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds2_test_P0925.jpg,P0925.jpg,Calboral,,unknown,ds2,test,False,ok
+ds1_train_224.png,224.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2850.jpg,P2850.jpg,Algin,,unknown,ds2,train,False,ok
+ds1_val_32.png,32.png,Amodis,Metronidazole,source,ds1,val,False,ok
+ds2_test_P0974.jpg,P0974.jpg,Setra,,unknown,ds2,test,False,ok
+ds2_train_P2722.jpg,P2722.jpg,Filmet,Metronidazole,auto,ds2,train,False,ok
+ds2_train_P2728.jpg,P2728.jpg,Clavutil,,unknown,ds2,train,False,ok
+ds1_test_431.png,431.png,Lucan-R,Fluconazole,source,ds1,test,False,ok
+ds2_train_P4707.jpg,P4707.jpg,nalbun 2,,unknown,ds2,train,True,ok
+ds2_train_P2756.jpg,P2756.jpg,Kalorl Dx,,unknown,ds2,train,False,ok
+ds1_test_221.png,221.png,Diflu,Fluconazole,source,ds1,test,False,ok
+ds1_val_373.png,373.png,Flugal,Fluconazole,source,ds1,val,False,ok
+ds1_train_1734.png,1734.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds2_test_P0055.jpg,P0055.jpg,Fougest,,unknown,ds2,test,False,ok
+ds1_val_403.png,403.png,Ketotab,Ketoconazole (Tablet),source,ds1,val,False,ok
+ds2_train_P2343.jpg,P2343.jpg,Napa one,,unknown,ds2,train,False,ok
+ds1_test_63.png,63.png,Azithrocin,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_train_P2674.jpg,P2674.jpg,Flux,,unknown,ds2,train,False,ok
+ds1_test_588.png,588.png,Nidazyl,Metronidazole,source,ds1,test,False,ok
+ds2_test_P0898.jpg,P0898.jpg,Neuro B,,unknown,ds2,test,False,ok
+ds1_train_595.png,595.png,Beklo,Baclofen,source,ds1,train,False,ok
+ds1_train_1428.png,1428.png,Flexibac,Baclofen,source,ds1,train,False,ok
+ds1_val_740.png,740.png,Tridosil,Azithromycin Dihydrate,source,ds1,val,False,ok
+ds2_train_P1507.jpg,P1507.jpg,Neurolin,,unknown,ds2,train,False,ok
+ds1_train_2198.png,2198.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds1_train_385.png,385.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_train_P1275.jpg,P1275.jpg,Eslilex 5,,unknown,ds2,train,True,ok
+ds2_train_P4283.jpg,P4283.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_646.png,646.png,Provair,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P2336.jpg,P2336.jpg,Esprazo,,unknown,ds2,train,False,ok
+ds1_train_1013.png,1013.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2459.jpg,P2459.jpg,Xolpro,,unknown,ds2,train,False,ok
+ds1_train_822.png,822.png,Dancel,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P4408.jpg,P4408.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_val_452.png,452.png,M-Kast,Montelukast Sodium,source,ds1,val,False,ok
+ds1_test_454.png,454.png,M-Kast,Montelukast Sodium,source,ds1,test,False,ok
+ds2_test_P0251.jpg,P0251.jpg,Max dol,,unknown,ds2,test,False,ok
+ds2_test_P0435.jpg,P0435.jpg,Levox,,unknown,ds2,test,False,ok
+ds1_val_615.png,615.png,Omastin,Fluconazole,source,ds1,val,False,ok
+ds2_train_P3058.jpg,P3058.jpg,Flugat,,unknown,ds2,train,False,ok
+ds2_train_P1607.jpg,P1607.jpg,Itralul SB,,unknown,ds2,train,False,ok
+ds1_train_455.png,455.png,Baclofen,Baclofen,source,ds1,train,False,ok
+ds1_train_681.png,681.png,Candinil,Fluconazole,source,ds1,train,False,ok
+ds2_train_P4184.jpg,P4184.jpg,Hartman,,unknown,ds2,train,False,ok
+ds1_train_1935.png,1935.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4254.jpg,P4254.jpg,Fexo,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds1_val_764.png,764.png,Vifas,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_test_P0039.jpg,P0039.jpg,Paloxi,,unknown,ds2,test,False,ok
+ds2_train_P4443.jpg,P4443.jpg,Thyrox,,unknown,ds2,train,False,ok
+ds2_test_P0708.jpg,P0708.jpg,Setra,,unknown,ds2,test,False,ok
+ds2_train_P2817.jpg,P2817.jpg,Don-A,,unknown,ds2,train,False,ok
+ds1_test_447.png,447.png,Lumona,Montelukast Sodium,source,ds1,test,False,ok
+ds1_train_730.png,730.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0901.jpg,P0901.jpg,Gestrenol,,unknown,ds2,test,False,ok
+ds2_train_P4565.jpg,P4565.jpg,windel plus,,unknown,ds2,train,False,ok
+ds1_test_356.png,356.png,Flexibac,Baclofen,source,ds1,test,False,ok
+ds1_train_2502.png,2502.png,Opton,Esomeprazole,source,ds1,train,False,ok
+ds1_train_758.png,758.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_test_690.png,690.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,test,False,ok
+ds1_train_94.png,94.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P4289.jpg,P4289.jpg,Tablet,,unknown,ds2,train,False,ok
+ds2_train_P4108.jpg,P4108.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P2590.jpg,P2590.jpg,Flux,,unknown,ds2,train,False,ok
+ds2_train_P3290.jpg,P3290.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_2136.png,2136.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1060.png,1060.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1799.png,1799.png,Lumona,Montelukast Sodium,source,ds1,train,False,ok
+ds1_test_614.png,614.png,Omastin,Fluconazole,source,ds1,test,False,ok
+ds1_train_608.png,608.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,train,False,ok
+ds1_train_1275.png,1275.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1715.png,1715.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds2_test_P0751.jpg,P0751.jpg,Neuro B,,unknown,ds2,test,False,ok
+ds1_val_504.png,504.png,Monas,Montelukast Sodium,source,ds1,val,False,ok
+ds1_val_163.png,163.png,Canazole,Fluconazole,source,ds1,val,False,ok
+ds1_train_2326.png,2326.png,Nidazyl,Metronidazole,source,ds1,train,False,ok
+ds1_train_2038.png,2038.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P1860.jpg,P1860.jpg,Calboral,,unknown,ds2,train,False,ok
+ds1_test_36.png,36.png,Amodis,Metronidazole,source,ds1,test,False,ok
+ds2_train_P3165.jpg,P3165.jpg,Svcset,,unknown,ds2,train,False,ok
+ds2_train_P1884.jpg,P1884.jpg,Don A,,unknown,ds2,train,False,ok
+ds2_train_P2200.jpg,P2200.jpg,wfiCore,,unknown,ds2,train,False,ok
+ds2_train_P3038.jpg,P3038.jpg,Seclo,,unknown,ds2,train,False,ok
+ds2_train_P2361.jpg,P2361.jpg,Rivotril,Clonazepam,auto,ds2,train,False,ok
+ds2_train_P1575.jpg,P1575.jpg,Cridip 10,,unknown,ds2,train,True,ok
+ds2_train_P3377.jpg,P3377.jpg,Algin,,unknown,ds2,train,False,ok
+ds2_train_P4029.jpg,P4029.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_1852.png,1852.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1994.png,1994.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0940.jpg,P0940.jpg,Neuro,,unknown,ds2,test,False,ok
+ds1_train_2134.png,2134.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_878.png,878.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_test_380.png,380.png,Ketocon,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds1_val_147.png,147.png,Beklo,Baclofen,source,ds1,val,False,ok
+ds2_test_P0099.jpg,P0099.jpg,Vonocab,,unknown,ds2,test,False,ok
+ds2_train_P3172.jpg,P3172.jpg,Biltant,,unknown,ds2,train,False,ok
+ds2_train_P3102.jpg,P3102.jpg,Metro,Metronidazole,auto,ds2,train,False,ok
+ds2_train_P1594.jpg,P1594.jpg,Tendonil,,unknown,ds2,train,False,ok
+ds1_train_1082.png,1082.png,Etizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3783.jpg,P3783.jpg,Emistat,,unknown,ds2,train,False,ok
+ds2_test_P0387.jpg,P0387.jpg,Napxon,,unknown,ds2,test,False,ok
+ds2_train_P1363.jpg,P1363.jpg,Tab. Arislovit-B,,unknown,ds2,train,False,ok
+ds1_train_569.png,569.png,Beklo,Baclofen,source,ds1,train,False,ok
+ds1_train_2410.png,2410.png,Odmon,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P3920.jpg,P3920.jpg,Histacin,,unknown,ds2,train,False,ok
+ds2_train_P5037.jpg,P5037.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds1_test_167.png,167.png,Canazole,Fluconazole,source,ds1,test,False,ok
+ds2_train_P4761.jpg,P4761.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P4434.jpg,P4434.jpg,Normal,,unknown,ds2,train,False,ok
+ds1_train_2730.png,2730.png,Rivotril,Clonazepam,source,ds1,train,False,ok
+ds2_train_P1782.jpg,P1782.jpg,Devixil,,unknown,ds2,train,False,ok
+ds2_train_P3688.jpg,P3688.jpg,Nebulization,,unknown,ds2,train,False,ok
+ds1_val_467.png,467.png,Maxima,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P2278.jpg,P2278.jpg,Ceevit,,unknown,ds2,train,False,ok
+ds2_train_P3121.jpg,P3121.jpg,Thyrox,,unknown,ds2,train,False,ok
+ds1_test_304.png,304.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P2487.jpg,P2487.jpg,Voltalin,,unknown,ds2,train,False,ok
+ds1_train_2670.png,2670.png,Rhinil,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1248.png,1248.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_713.png,713.png,Candinil,Fluconazole,source,ds1,train,False,ok
+ds2_train_P4240.jpg,P4240.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_train_451.png,451.png,Baclofen,Baclofen,source,ds1,train,False,ok
+ds2_train_P4058.jpg,P4058.jpg,Metro,Metronidazole,auto,ds2,train,False,ok
+ds1_train_1267.png,1267.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2622.jpg,P2622.jpg,Algend,,unknown,ds2,train,False,ok
+ds1_test_165.png,165.png,Canazole,Fluconazole,source,ds1,test,False,ok
+ds2_train_P3018.jpg,P3018.jpg,Algin,,unknown,ds2,train,False,ok
+ds1_train_1384.png,1384.png,Flamyd,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0354.jpg,P0354.jpg,Vonocab,,unknown,ds2,test,False,ok
+ds1_val_473.png,473.png,Maxpro,Esomeprazole,source,ds1,val,False,ok
+ds1_train_638.png,638.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,train,False,ok
+ds1_test_205.png,205.png,Dancel,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds1_test_157.png,157.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,test,False,ok
+ds2_test_P0125.jpg,P0125.jpg,Turboclav,,unknown,ds2,test,False,ok
+ds2_train_P4168.jpg,P4168.jpg,Metro,Metronidazole,auto,ds2,train,False,ok
+ds2_train_P2592.jpg,P2592.jpg,Nexe,,unknown,ds2,train,False,ok
+ds2_train_P2363.jpg,P2363.jpg,Cefrid,,unknown,ds2,train,False,ok
+ds1_train_2193.png,2193.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds2_train_P2536.jpg,P2536.jpg,Voltalin,,unknown,ds2,train,False,ok
+ds2_train_P2130.jpg,P2130.jpg,Vineet,,unknown,ds2,train,False,ok
+ds2_train_P2531.jpg,P2531.jpg,Omidon,,unknown,ds2,train,False,ok
+ds1_train_1111.png,1111.png,Etizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3649.jpg,P3649.jpg,Diet,,unknown,ds2,train,False,ok
+ds1_train_1838.png,1838.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0582.jpg,P0582.jpg,Telmacal,,unknown,ds2,test,False,ok
+ds1_train_2841.png,2841.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2727.jpg,P2727.jpg,Optimax,,unknown,ds2,train,False,ok
+ds1_train_27.png,27.png,Aceta,Paracetamol,source,ds1,train,False,ok
+ds2_train_P1383.jpg,P1383.jpg,Tb. N- Max,,unknown,ds2,train,False,ok
+ds2_train_P2473.jpg,P2473.jpg,Nexe mups,,unknown,ds2,train,False,ok
+ds1_train_523.png,523.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds1_train_2056.png,2056.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P3636.jpg,P3636.jpg,Nidipine SR,,unknown,ds2,train,False,ok
+ds1_train_1223.png,1223.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2931.png,2931.png,Telfast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0233.jpg,P0233.jpg,TRD Coutine,,unknown,ds2,test,False,ok
+ds2_train_P2584.jpg,P2584.jpg,Roclav,,unknown,ds2,train,False,ok
+ds1_train_2082.png,2082.png,Montene,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P2434.jpg,P2434.jpg,Etorix,,unknown,ds2,train,False,ok
+ds2_train_P2106.jpg,P2106.jpg,Nexe,,unknown,ds2,train,False,ok
+ds2_train_P2866.jpg,P2866.jpg,Amitip,,unknown,ds2,train,False,ok
+ds2_train_P1281.jpg,P1281.jpg,Zymet Pro,,unknown,ds2,train,False,ok
+ds2_train_P4837.jpg,P4837.jpg,Cefuroxime,,unknown,ds2,train,False,ok
+ds1_test_98.png,98.png,Bacaid,Baclofen,source,ds1,test,False,ok
+ds1_train_1816.png,1816.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_2065.png,2065.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_2892.png,2892.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds1_val_524.png,524.png,Montene,Montelukast Sodium,source,ds1,val,False,ok
+ds1_train_50.png,50.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds2_train_P2711.jpg,P2711.jpg,Omidon,,unknown,ds2,train,False,ok
+ds1_train_62.png,62.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0369.jpg,P0369.jpg,Nexpro,,unknown,ds2,test,False,ok
+ds1_val_457.png,457.png,M-Kast,Montelukast Sodium,source,ds1,val,False,ok
+ds1_test_445.png,445.png,Lumona,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P1688.jpg,P1688.jpg,Empofi,,unknown,ds2,train,False,ok
+ds2_train_P1899.jpg,P1899.jpg,Rosu,,unknown,ds2,train,False,ok
+ds2_train_P2555.jpg,P2555.jpg,Ceevit,,unknown,ds2,train,False,ok
+ds1_train_646.png,646.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds2_train_P3437.jpg,P3437.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P2830.jpg,P2830.jpg,Conit XR,,unknown,ds2,train,False,ok
+ds1_train_1383.png,1383.png,Flamyd,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4216.jpg,P4216.jpg,Antazol,,unknown,ds2,train,False,ok
+ds1_train_2187.png,2187.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds1_val_725.png,725.png,Tamen,Paracetamol,source,ds1,val,False,ok
+ds2_train_P2015.jpg,P2015.jpg,Actrafid,,unknown,ds2,train,False,ok
+ds2_train_P1148.jpg,P1148.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_2070.png,2070.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_3092.png,3092.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_test_737.png,737.png,Telfast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds1_val_471.png,471.png,Maxpro,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P2153.jpg,P2153.jpg,Baemax,,unknown,ds2,train,False,ok
+ds1_train_484.png,484.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds2_train_P1991.jpg,P1991.jpg,Rohuf,,unknown,ds2,train,False,ok
+ds2_test_P0134.jpg,P0134.jpg,Etorix,,unknown,ds2,test,False,ok
+ds1_test_735.png,735.png,Telfast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds1_train_2128.png,2128.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds1_val_727.png,727.png,Tamen,Paracetamol,source,ds1,val,False,ok
+ds2_train_P3035.jpg,P3035.jpg,Anitip,,unknown,ds2,train,False,ok
+ds1_train_622.png,622.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,train,False,ok
+ds2_train_P1413.jpg,P1413.jpg,Nabu,,unknown,ds2,train,False,ok
+ds1_train_2762.png,2762.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds2_test_P0355.jpg,P0355.jpg,Sponocid,,unknown,ds2,test,False,ok
+ds1_train_2806.png,2806.png,Rozith,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P1973.jpg,P1973.jpg,Xinc,,unknown,ds2,train,False,ok
+ds2_train_P1327.jpg,P1327.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_153.png,153.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_train_2965.png,2965.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P2860.jpg,P2860.jpg,Naprox,,unknown,ds2,train,False,ok
+ds2_train_P1962.jpg,P1962.jpg,Temlonil,,unknown,ds2,train,False,ok
+ds2_train_P1994.jpg,P1994.jpg,Cefotil Plus,,unknown,ds2,train,False,ok
+ds2_train_P2724.jpg,P2724.jpg,Voltalin,,unknown,ds2,train,False,ok
+ds1_train_3037.png,3037.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_2802.png,2802.png,Rozith,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_test_398.png,398.png,Ketoral,Ketoconazole (Tablet),source,ds1,test,False,ok
+ds1_train_1277.png,1277.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_test_633.png,633.png,Progut,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P1473.jpg,P1473.jpg,Dexter,,unknown,ds2,train,False,ok
+ds2_test_P1053.jpg,P1053.jpg,Denixil,Clonazepam,auto,ds2,test,False,ok
+ds1_train_1824.png,1824.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P2028.jpg,P2028.jpg,Delfmz 30,,unknown,ds2,train,True,ok
+ds1_train_2455.png,2455.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds1_train_1415.png,1415.png,Flexibac,Baclofen,source,ds1,train,False,ok
+ds1_train_2961.png,2961.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_1063.png,1063.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1500.png,1500.png,Flugal,Fluconazole,source,ds1,train,False,ok
+ds2_train_P2965.jpg,P2965.jpg,Montene,Montelukast Sodium,auto,ds2,train,False,ok
+ds1_val_55.png,55.png,Axodin,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P4448.jpg,P4448.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_train_3.png,3.png,Aceta,Paracetamol,source,ds1,train,False,ok
+ds1_train_143.png,143.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2042.jpg,P2042.jpg,Detfacf,,unknown,ds2,train,False,ok
+ds1_train_2601.png,2601.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds1_train_3060.png,3060.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1854.png,1854.png,Maxima,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2026.png,2026.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0914.jpg,P0914.jpg,Gestrenol,,unknown,ds2,test,False,ok
+ds2_train_P1416.jpg,P1416.jpg,Alfane,,unknown,ds2,train,False,ok
+ds1_test_575.png,575.png,Nexum,Esomeprazole,source,ds1,test,False,ok
+ds2_test_P1026.jpg,P1026.jpg,Coralcal,,unknown,ds2,test,False,ok
+ds2_test_P0295.jpg,P0295.jpg,Texit,,unknown,ds2,test,False,ok
+ds2_train_P5018.jpg,P5018.jpg,nexe mvs,,unknown,ds2,train,False,ok
+ds2_train_P1824.jpg,P1824.jpg,Telfro max,,unknown,ds2,train,False,ok
+ds1_train_3051.png,3051.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2701.jpg,P2701.jpg,Ceevit,,unknown,ds2,train,False,ok
+ds1_train_127.png,127.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds2_train_P4404.jpg,P4404.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P2597.jpg,P2597.jpg,Bactrosin,,unknown,ds2,train,False,ok
+ds2_test_P0014.jpg,P0014.jpg,Algin,,unknown,ds2,test,False,ok
+ds2_train_P2715.jpg,P2715.jpg,Actilac,,unknown,ds2,train,False,ok
+ds2_train_P2102.jpg,P2102.jpg,Reelifr,,unknown,ds2,train,False,ok
+ds2_train_P4267.jpg,P4267.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P2196.jpg,P2196.jpg,wfiCore,,unknown,ds2,train,False,ok
+ds1_train_2814.png,2814.png,Rozith,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P4333.jpg,P4333.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_train_2336.png,2336.png,Nidazyl,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0669.jpg,P0669.jpg,Dexter 60,,unknown,ds2,test,True,ok
+ds1_train_2883.png,2883.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0737.jpg,P0737.jpg,Amlip,,unknown,ds2,test,False,ok
+ds1_val_576.png,576.png,Nexum,Esomeprazole,source,ds1,val,False,ok
+ds1_test_349.png,349.png,Flamyd,Metronidazole,source,ds1,test,False,ok
+ds2_train_P1535.jpg,P1535.jpg,Rasiflex,,unknown,ds2,train,False,ok
+ds2_test_P0794.jpg,P0794.jpg,Neuro,,unknown,ds2,test,False,ok
+ds2_train_P3693.jpg,P3693.jpg,Injection,,unknown,ds2,train,False,ok
+ds2_train_P3718.jpg,P3718.jpg,Diet,,unknown,ds2,train,False,ok
+ds1_test_532.png,532.png,Montex,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P1916.jpg,P1916.jpg,Nonum,,unknown,ds2,train,False,ok
+ds2_train_P2281.jpg,P2281.jpg,Calcor-D,,unknown,ds2,train,False,ok
+ds2_train_P2587.jpg,P2587.jpg,Esmax,,unknown,ds2,train,False,ok
+ds1_train_1141.png,1141.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1790.jpg,P1790.jpg,Pripmmf,,unknown,ds2,train,False,ok
+ds2_train_P4899.jpg,P4899.jpg,xinc b,,unknown,ds2,train,False,ok
+ds2_train_P4172.jpg,P4172.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_test_621.png,621.png,Opton,Esomeprazole,source,ds1,test,False,ok
+ds1_val_742.png,742.png,Tridosil,Azithromycin Dihydrate,source,ds1,val,False,ok
+ds1_test_513.png,513.png,Montair,Montelukast Sodium,source,ds1,test,False,ok
+ds1_val_301.png,301.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P3683.jpg,P3683.jpg,CBC,,unknown,ds2,train,False,ok
+ds1_train_428.png,428.png,Backtone,Baclofen,source,ds1,train,False,ok
+ds2_test_P0890.jpg,P0890.jpg,Calboral,,unknown,ds2,test,False,ok
+ds1_train_1155.png,1155.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds1_val_97.png,97.png,Bacaid,Baclofen,source,ds1,val,False,ok
+ds1_train_666.png,666.png,Canazole,Fluconazole,source,ds1,train,False,ok
+ds1_val_300.png,300.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P2821.jpg,P2821.jpg,Ace,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P2149.jpg,P2149.jpg,Pronex,,unknown,ds2,train,False,ok
+ds1_test_19.png,19.png,Ace,Paracetamol,source,ds1,test,False,ok
+ds1_val_661.png,661.png,Rhinil,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_test_P0827.jpg,P0827.jpg,Naprox,,unknown,ds2,test,False,ok
+ds1_val_342.png,342.png,Flamyd,Metronidazole,source,ds1,val,False,ok
+ds2_train_P4975.jpg,P4975.jpg,renova,Paracetamol,auto,ds2,train,False,ok
+ds2_test_P1009.jpg,P1009.jpg,Zymet,,unknown,ds2,test,False,ok
+ds2_train_P1845.jpg,P1845.jpg,Nonum,,unknown,ds2,train,False,ok
+ds1_train_3028.png,3028.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_2074.png,2074.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_val_425.png,425.png,Leptic,Clonazepam,source,ds1,val,False,ok
+ds2_train_P2050.jpg,P2050.jpg,Calboral Dx,,unknown,ds2,train,False,ok
+ds1_test_171.png,171.png,Candinil,Fluconazole,source,ds1,test,False,ok
+ds1_train_3019.png,3019.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0986.jpg,P0986.jpg,FLAMEX,,unknown,ds2,test,False,ok
+ds1_val_269.png,269.png,Esoral,Esomeprazole,source,ds1,val,False,ok
+ds2_test_P0374.jpg,P0374.jpg,Apeclo,,unknown,ds2,test,False,ok
+ds2_train_P3467.jpg,P3467.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P3153.jpg,P3153.jpg,Timptin,,unknown,ds2,train,False,ok
+ds1_train_1136.png,1136.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds2_test_P1066.jpg,P1066.jpg,Denixil,Clonazepam,auto,ds2,test,False,ok
+ds2_train_P3191.jpg,P3191.jpg,Doxycap,,unknown,ds2,train,False,ok
+ds2_test_P0464.jpg,P0464.jpg,Ligazid,,unknown,ds2,test,False,ok
+ds2_test_P0694.jpg,P0694.jpg,Dexter,,unknown,ds2,test,False,ok
+ds2_train_P4532.jpg,P4532.jpg,Cefuroximee,,unknown,ds2,train,False,ok
+ds1_val_60.png,60.png,Azithrocin,Azithromycin Dihydrate,source,ds1,val,False,ok
+ds2_test_P0904.jpg,P0904.jpg,Seclo,,unknown,ds2,test,False,ok
+ds2_test_P0552.jpg,P0552.jpg,Seko,,unknown,ds2,test,False,ok
+ds2_train_P4241.jpg,P4241.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_val_164.png,164.png,Canazole,Fluconazole,source,ds1,val,False,ok
+ds1_train_876.png,876.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_train_2717.png,2717.png,Ritch,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2729.jpg,P2729.jpg,Roclav,,unknown,ds2,train,False,ok
+ds2_train_P2608.jpg,P2608.jpg,Esotid,,unknown,ds2,train,False,ok
+ds1_train_1464.png,1464.png,Flexilax,Baclofen,source,ds1,train,False,ok
+ds2_train_P1754.jpg,P1754.jpg,Othera,,unknown,ds2,train,False,ok
+ds1_train_762.png,762.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds2_train_P3057.jpg,P3057.jpg,Anitip,,unknown,ds2,train,False,ok
+ds1_test_261.png,261.png,Esoral,Esomeprazole,source,ds1,test,False,ok
+ds1_test_687.png,687.png,Rivotril,Clonazepam,source,ds1,test,False,ok
+ds2_train_P1757.jpg,P1757.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_1693.png,1693.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds2_train_P3572.jpg,P3572.jpg,Syrup,,unknown,ds2,train,False,ok
+ds1_train_2035.png,2035.png,Monas,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0655.jpg,P0655.jpg,m-lucas 10,,unknown,ds2,test,True,ok
+ds1_train_1932.png,1932.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds2_train_P1876.jpg,P1876.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_test_23.png,23.png,Alatrol,Cetirizine Hydrochloride,source,ds1,test,False,ok
+ds2_test_P0419.jpg,P0419.jpg,Bilaxe,,unknown,ds2,test,False,ok
+ds1_train_1112.png,1112.png,Etizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1492.jpg,P1492.jpg,Don A,,unknown,ds2,train,False,ok
+ds2_train_P1138.jpg,P1138.jpg,Omastin,Fluconazole,auto,ds2,train,False,ok
+ds2_test_P0485.jpg,P0485.jpg,Ralee,,unknown,ds2,test,False,ok
+ds1_train_1471.png,1471.png,Flexilax,Baclofen,source,ds1,train,False,ok
+ds2_train_P2160.jpg,P2160.jpg,Supra-B,,unknown,ds2,train,False,ok
+ds2_test_P0556.jpg,P0556.jpg,Indo,,unknown,ds2,test,False,ok
+ds1_val_689.png,689.png,Rivotril,Clonazepam,source,ds1,val,False,ok
+ds1_train_2838.png,2838.png,Rozith,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_909.png,909.png,Diflu,Fluconazole,source,ds1,train,False,ok
+ds2_train_P3103.jpg,P3103.jpg,Linatin,,unknown,ds2,train,False,ok
+ds1_val_277.png,277.png,Etizin,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds1_train_928.png,928.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0010.jpg,P0010.jpg,Napa,Paracetamol,auto,ds2,test,False,ok
+ds2_train_P1922.jpg,P1922.jpg,Qtof,,unknown,ds2,train,False,ok
+ds1_test_170.png,170.png,Candinil,Fluconazole,source,ds1,test,False,ok
+ds1_train_146.png,146.png,Amodis,Metronidazole,source,ds1,train,False,ok
+ds1_train_1348.png,1348.png,Fixal,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2146.jpg,P2146.jpg,Mecor,,unknown,ds2,train,False,ok
+ds1_train_1629.png,1629.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds2_train_P2464.jpg,P2464.jpg,Tersilla-SR,,unknown,ds2,train,False,ok
+ds1_train_966.png,966.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds1_test_484.png,484.png,Metro,Metronidazole,source,ds1,test,False,ok
+ds2_train_P3114.jpg,P3114.jpg,Fexofenadine,,unknown,ds2,train,False,ok
+ds2_train_P4349.jpg,P4349.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_122.png,122.png,Baclon,Baclofen,source,ds1,test,False,ok
+ds2_train_P2541.jpg,P2541.jpg,Finix,,unknown,ds2,train,False,ok
+ds1_train_706.png,706.png,Candinil,Fluconazole,source,ds1,train,False,ok
+ds1_test_317.png,317.png,Fexo,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_test_P0756.jpg,P0756.jpg,Esprazo,,unknown,ds2,test,False,ok
+ds1_test_129.png,129.png,Baclon,Baclofen,source,ds1,test,False,ok
+ds1_train_2645.png,2645.png,Rhinil,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_992.png,992.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds1_train_1542.png,1542.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_1062.png,1062.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2079.png,2079.png,Montair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1430.png,1430.png,Flexibac,Baclofen,source,ds1,train,False,ok
+ds1_train_2878.png,2878.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3888.jpg,P3888.jpg,Flamex,,unknown,ds2,train,False,ok
+ds1_val_184.png,184.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds1_train_1308.png,1308.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2482.jpg,P2482.jpg,Bron Wash,,unknown,ds2,train,False,ok
+ds1_train_2142.png,2142.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P3173.jpg,P3173.jpg,M.kant,,unknown,ds2,train,False,ok
+ds1_train_1753.png,1753.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds1_train_379.png,379.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_train_P2186.jpg,P2186.jpg,Defzacort 6,,unknown,ds2,train,True,ok
+ds2_test_P0487.jpg,P0487.jpg,Rofixim,,unknown,ds2,test,False,ok
+ds1_test_600.png,600.png,Odmon,Montelukast Sodium,source,ds1,test,False,ok
+ds1_train_1386.png,1386.png,Flamyd,Metronidazole,source,ds1,train,False,ok
+ds1_train_202.png,202.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P4334.jpg,P4334.jpg,Ometid,,unknown,ds2,train,False,ok
+ds1_train_919.png,919.png,Diflu,Fluconazole,source,ds1,train,False,ok
+ds1_train_2219.png,2219.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds1_train_2454.png,2454.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds1_train_875.png,875.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_val_734.png,734.png,Telfast,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P1554.jpg,P1554.jpg,Neuroxen,,unknown,ds2,train,False,ok
+ds1_test_382.png,382.png,Ketocon,Ketoconazole (Shampoo),source,ds1,test,False,ok
+ds2_train_P1156.jpg,P1156.jpg,Natumef,,unknown,ds2,train,False,ok
+ds1_train_2263.png,2263.png,Nexcap,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P1459.jpg,P1459.jpg,Nafro A plm,,unknown,ds2,train,False,ok
+ds1_train_1724.png,1724.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds1_train_750.png,750.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3674.jpg,P3674.jpg,Meropenem,,unknown,ds2,train,False,ok
+ds2_train_P2259.jpg,P2259.jpg,Nexum,Esomeprazole,auto,ds2,train,False,ok
+ds2_train_P4352.jpg,P4352.jpg,Suppository,,unknown,ds2,train,False,ok
+ds2_train_P5013.jpg,P5013.jpg,linux plus,,unknown,ds2,train,False,ok
+ds2_train_P4040.jpg,P4040.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_train_1908.png,1908.png,Maxpro,Esomeprazole,source,ds1,train,False,ok
+ds1_val_167.png,167.png,Canazole,Fluconazole,source,ds1,val,False,ok
+ds1_val_634.png,634.png,Progut,Esomeprazole,source,ds1,val,False,ok
+ds1_train_2896.png,2896.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds2_train_P1798.jpg,P1798.jpg,Devixil,,unknown,ds2,train,False,ok
+ds2_train_P3199.jpg,P3199.jpg,Fexofenadine,,unknown,ds2,train,False,ok
+ds2_train_P2166.jpg,P2166.jpg,Bilfastl,,unknown,ds2,train,False,ok
+ds1_train_1722.png,1722.png,Lucan-R,Fluconazole,source,ds1,train,False,ok
+ds1_test_249.png,249.png,Disopan,Clonazepam,source,ds1,test,False,ok
+ds1_train_1571.png,1571.png,Ketoral,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_train_3079.png,3079.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_336.png,336.png,Az,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P3927.jpg,P3927.jpg,Rolac,,unknown,ds2,train,False,ok
+ds2_train_P5202.jpg,P5202.jpg,flamyd,Metronidazole,auto,ds2,train,False,ok
+ds2_train_P3595.jpg,P3595.jpg,Arlin,,unknown,ds2,train,False,ok
+ds1_train_223.png,223.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_val_195.png,195.png,Conaz,Fluconazole,source,ds1,val,False,ok
+ds1_train_2141.png,2141.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0960.jpg,P0960.jpg,Tryptin,,unknown,ds2,test,False,ok
+ds1_train_2516.png,2516.png,Opton,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2089.jpg,P2089.jpg,Protio,,unknown,ds2,train,False,ok
+ds2_train_P1132.jpg,P1132.jpg,Neemoxew,,unknown,ds2,train,False,ok
+ds2_train_P3132.jpg,P3132.jpg,Traxyl,,unknown,ds2,train,False,ok
+ds1_train_384.png,384.png,Bacaid,Baclofen,source,ds1,train,False,ok
+ds2_train_P3063.jpg,P3063.jpg,Fenix-V,,unknown,ds2,train,False,ok
+ds1_test_463.png,463.png,Maxima,Esomeprazole,source,ds1,test,False,ok
+ds1_train_1086.png,1086.png,Etizin,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1218.png,1218.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0627.jpg,P0627.jpg,Xyril,,unknown,ds2,test,False,ok
+ds2_train_P3198.jpg,P3198.jpg,Ceftriaxone,,unknown,ds2,train,False,ok
+ds1_train_1319.png,1319.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_test_P0899.jpg,P0899.jpg,Barbit,,unknown,ds2,test,False,ok
+ds1_train_2443.png,2443.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds2_train_P1946.jpg,P1946.jpg,Tab Cordca,,unknown,ds2,train,False,ok
+ds1_train_574.png,574.png,Beklo,Baclofen,source,ds1,train,False,ok
+ds1_train_2890.png,2890.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds1_train_2901.png,2901.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds1_val_341.png,341.png,Flamyd,Metronidazole,source,ds1,val,False,ok
+ds2_train_P1929.jpg,P1929.jpg,Algin,,unknown,ds2,train,False,ok
+ds2_train_P3137.jpg,P3137.jpg,Bizoran,,unknown,ds2,train,False,ok
+ds2_train_P4388.jpg,P4388.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds1_train_1065.png,1065.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_val_110.png,110.png,Baclofen,Baclofen,source,ds1,val,False,ok
+ds1_train_248.png,248.png,Azithrocin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P4386.jpg,P4386.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds1_train_1291.png,1291.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds1_val_276.png,276.png,Etizin,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_test_P0113.jpg,P0113.jpg,Avloclav,,unknown,ds2,test,False,ok
+ds1_train_1794.png,1794.png,Lumona,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P3517.jpg,P3517.jpg,Injection,,unknown,ds2,train,False,ok
+ds1_train_2571.png,2571.png,Provair,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P5084.jpg,P5084.jpg,f lubre,,unknown,ds2,train,False,ok
+ds1_test_318.png,318.png,Fexo,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P2840.jpg,P2840.jpg,Fenix-V,,unknown,ds2,train,False,ok
+ds1_train_1785.png,1785.png,Lumona,Montelukast Sodium,source,ds1,train,False,ok
+ds2_test_P0977.jpg,P0977.jpg,Nexum,Esomeprazole,auto,ds2,test,False,ok
+ds1_train_1059.png,1059.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2524.png,2524.png,Progut,Esomeprazole,source,ds1,train,False,ok
+ds1_test_89.png,89.png,Az,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds2_test_P0042.jpg,P0042.jpg,HPR DS,,unknown,ds2,test,False,ok
+ds1_train_2612.png,2612.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds2_test_P0302.jpg,P0302.jpg,Nexe,,unknown,ds2,test,False,ok
+ds2_test_P0238.jpg,P0238.jpg,Itolcive 80,,unknown,ds2,test,True,ok
+ds2_train_P2865.jpg,P2865.jpg,Fentizol,,unknown,ds2,train,False,ok
+ds1_train_1021.png,1021.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds1_train_2560.png,2560.png,Provair,Montelukast Sodium,source,ds1,train,False,ok
+ds1_test_246.png,246.png,Disopan,Clonazepam,source,ds1,test,False,ok
+ds1_test_337.png,337.png,Fixal,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds1_train_46.png,46.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds2_train_P1250.jpg,P1250.jpg,Dophyllin,,unknown,ds2,train,False,ok
+ds1_train_2203.png,2203.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds1_train_2660.png,2660.png,Rhinil,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_val_733.png,733.png,Telfast,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds1_val_228.png,228.png,Diflu,Fluconazole,source,ds1,val,False,ok
+ds2_train_P3221.jpg,P3221.jpg,Fixal,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds2_train_P1662.jpg,P1662.jpg,Montene,Montelukast Sodium,auto,ds2,train,False,ok
+ds2_train_P5389.jpg,P5389.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P1122.jpg,P1122.jpg,Clacef,,unknown,ds2,train,False,ok
+ds1_train_1625.png,1625.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_train_2449.png,2449.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds1_train_47.png,47.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds1_val_70.png,70.png,Azyth,Azithromycin Dihydrate,source,ds1,val,False,ok
+ds1_train_3059.png,3059.png,Vifas,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2864.png,2864.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2855.jpg,P2855.jpg,Triolon,,unknown,ds2,train,False,ok
+ds2_train_P2266.jpg,P2266.jpg,Rebe,,unknown,ds2,train,False,ok
+ds2_train_P3725.jpg,P3725.jpg,Diet,,unknown,ds2,train,False,ok
+ds1_train_3104.png,3104.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_2859.png,2859.png,Sergel,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P3980.jpg,P3980.jpg,Syrup,,unknown,ds2,train,False,ok
+ds2_train_P1851.jpg,P1851.jpg,Pama Serg,,unknown,ds2,train,False,ok
+ds1_train_820.png,820.png,Dancel,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_test_P0599.jpg,P0599.jpg,Anfree,,unknown,ds2,test,False,ok
+ds2_train_P3989.jpg,P3989.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_train_1664.png,1664.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P2896.jpg,P2896.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P1318.jpg,P1318.jpg,Tab. Menoral,,unknown,ds2,train,False,ok
+ds1_test_526.png,526.png,Montene,Montelukast Sodium,source,ds1,test,False,ok
+ds1_train_760.png,760.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_train_951.png,951.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_863.png,863.png,Denixil,Clonazepam,source,ds1,train,False,ok
+ds1_train_2237.png,2237.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds1_train_2479.png,2479.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds2_train_P2769.jpg,P2769.jpg,Frulac,,unknown,ds2,train,False,ok
+ds1_train_228.png,228.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1627.jpg,P1627.jpg,Amitip,,unknown,ds2,train,False,ok
+ds1_val_131.png,131.png,Bacmax,Baclofen,source,ds1,val,False,ok
+ds1_train_1975.png,1975.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds1_train_1686.png,1686.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_train_2713.png,2713.png,Ritch,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0350.jpg,P0350.jpg,Esohil,,unknown,ds2,test,False,ok
+ds2_test_P0588.jpg,P0588.jpg,Flamyd,Metronidazole,auto,ds2,test,False,ok
+ds2_train_P4195.jpg,P4195.jpg,Aropen,,unknown,ds2,train,False,ok
+ds2_train_P3053.jpg,P3053.jpg,Meffo,,unknown,ds2,train,False,ok
+ds1_train_513.png,513.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds1_test_275.png,275.png,Etizin,Cetirizine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P1477.jpg,P1477.jpg,Dexter,,unknown,ds2,train,False,ok
+ds1_train_77.png,77.png,Ace,Paracetamol,source,ds1,train,False,ok
+ds1_val_203.png,203.png,Dancel,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds1_val_759.png,759.png,Trilock,Montelukast Sodium,source,ds1,val,False,ok
+ds2_train_P2213.jpg,P2213.jpg,Garcon,,unknown,ds2,train,False,ok
+ds2_test_P0536.jpg,P0536.jpg,Seko,,unknown,ds2,test,False,ok
+ds1_train_3031.png,3031.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds2_train_P2442.jpg,P2442.jpg,Nexe,,unknown,ds2,train,False,ok
+ds2_train_P2720.jpg,P2720.jpg,Furocef,,unknown,ds2,train,False,ok
+ds2_train_P4007.jpg,P4007.jpg,Drop,,unknown,ds2,train,False,ok
+ds1_train_345.png,345.png,Az,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P2318.jpg,P2318.jpg,Nexum,Esomeprazole,auto,ds2,train,False,ok
+ds2_train_P2663.jpg,P2663.jpg,Loxodol,,unknown,ds2,train,False,ok
+ds2_train_P2233.jpg,P2233.jpg,Calcor-D,,unknown,ds2,train,False,ok
+ds2_test_P0304.jpg,P0304.jpg,Renova,Paracetamol,auto,ds2,test,False,ok
+ds2_test_P0411.jpg,P0411.jpg,Apeclo,,unknown,ds2,test,False,ok
+ds2_train_P3029.jpg,P3029.jpg,Don-A,,unknown,ds2,train,False,ok
+ds1_train_1997.png,1997.png,Metsina,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2776.jpg,P2776.jpg,Nexe,,unknown,ds2,train,False,ok
+ds2_test_P0752.jpg,P0752.jpg,Calboral,,unknown,ds2,test,False,ok
+ds1_test_110.png,110.png,Baclofen,Baclofen,source,ds1,test,False,ok
+ds1_test_599.png,599.png,Nizoder,Ketoconazole (Cream),source,ds1,test,False,ok
+ds2_train_P1337.jpg,P1337.jpg,Tab. Menoral,,unknown,ds2,train,False,ok
+ds2_train_P2841.jpg,P2841.jpg,Calboral D,,unknown,ds2,train,False,ok
+ds2_train_P3304.jpg,P3304.jpg,Rolac,,unknown,ds2,train,False,ok
+ds1_train_2735.png,2735.png,Rivotril,Clonazepam,source,ds1,train,False,ok
+ds1_val_386.png,386.png,Ketocon,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds1_test_732.png,732.png,Telfast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds1_train_2200.png,2200.png,Napa,Paracetamol,source,ds1,train,False,ok
+ds1_test_142.png,142.png,Beklo,Baclofen,source,ds1,test,False,ok
+ds2_test_P0191.jpg,P0191.jpg,Termitan,,unknown,ds2,test,False,ok
+ds2_train_P2185.jpg,P2185.jpg,Metaomol,,unknown,ds2,train,False,ok
+ds1_test_593.png,593.png,Nizoder,Ketoconazole (Cream),source,ds1,test,False,ok
+ds1_train_984.png,984.png,Disopan,Clonazepam,source,ds1,train,False,ok
+ds1_test_138.png,138.png,Bacmax,Baclofen,source,ds1,test,False,ok
+ds2_train_P3821.jpg,P3821.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P4011.jpg,P4011.jpg,Omeprazole,,unknown,ds2,train,False,ok
+ds2_train_P2568.jpg,P2568.jpg,Bilaxe,,unknown,ds2,train,False,ok
+ds1_train_2914.png,2914.png,Tamen,Paracetamol,source,ds1,train,False,ok
+ds1_train_338.png,338.png,Az,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_test_303.png,303.png,Fexofast,Fexofenadine Hydrochloride,source,ds1,test,False,ok
+ds2_train_P2570.jpg,P2570.jpg,Raditil,,unknown,ds2,train,False,ok
+ds2_train_P4390.jpg,P4390.jpg,Maxsulin R,,unknown,ds2,train,False,ok
+ds1_train_1603.png,1603.png,Ketotab,Ketoconazole (Tablet),source,ds1,train,False,ok
+ds1_val_247.png,247.png,Disopan,Clonazepam,source,ds1,val,False,ok
+ds1_test_322.png,322.png,Filmet,Metronidazole,source,ds1,test,False,ok
+ds2_train_P3089.jpg,P3089.jpg,Naprox Plus,,unknown,ds2,train,False,ok
+ds2_train_P3981.jpg,P3981.jpg,Normal,,unknown,ds2,train,False,ok
+ds1_train_2122.png,2122.png,Montex,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_1076.png,1076.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds1_val_516.png,516.png,Montair,Montelukast Sodium,source,ds1,val,False,ok
+ds1_train_201.png,201.png,Axodin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1777.jpg,P1777.jpg,Itrahil,,unknown,ds2,train,False,ok
+ds2_test_P0340.jpg,P0340.jpg,Ciponaal,,unknown,ds2,test,False,ok
+ds2_test_P1079.jpg,P1079.jpg,Dexter,,unknown,ds2,test,False,ok
+ds2_train_P3468.jpg,P3468.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_train_763.png,763.png,Conaz,Fluconazole,source,ds1,train,False,ok
+ds1_train_2982.png,2982.png,Tridosil,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_test_376.png,376.png,Flugal,Fluconazole,source,ds1,test,False,ok
+ds2_train_P3701.jpg,P3701.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_267.png,267.png,Esoral,Esomeprazole,source,ds1,test,False,ok
+ds1_train_2791.png,2791.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
+ds1_train_1654.png,1654.png,Ketozol,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_2371.png,2371.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_train_P3490.jpg,P3490.jpg,Meropen,,unknown,ds2,train,False,ok
+ds2_train_P2238.jpg,P2238.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P2490.jpg,P2490.jpg,Calbo-D,,unknown,ds2,train,False,ok
+ds1_train_492.png,492.png,Baclon,Baclofen,source,ds1,train,False,ok
+ds1_train_1680.png,1680.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_train_603.png,603.png,Bicozin,Vitamin B Complex + Zinc,source,ds1,train,False,ok
+ds2_train_P3489.jpg,P3489.jpg,Endever,,unknown,ds2,train,False,ok
+ds2_train_P4944.jpg,P4944.jpg,xinc b,,unknown,ds2,train,False,ok
+ds1_train_1942.png,1942.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds1_train_1046.png,1046.png,Esoral,Esomeprazole,source,ds1,train,False,ok
+ds2_train_P2416.jpg,P2416.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds2_test_P0558.jpg,P0558.jpg,Arlin,,unknown,ds2,test,False,ok
+ds2_train_P4486.jpg,P4486.jpg,fenadin,Fexofenadine Hydrochloride,auto,ds2,train,False,ok
+ds2_test_P0511.jpg,P0511.jpg,Fylox,,unknown,ds2,test,False,ok
+ds1_test_609.png,609.png,Odmon,Montelukast Sodium,source,ds1,test,False,ok
+ds2_train_P4797.jpg,P4797.jpg,napa,Paracetamol,auto,ds2,train,False,ok
+ds1_val_116.png,116.png,Baclofen,Baclofen,source,ds1,val,False,ok
+ds1_val_432.png,432.png,Lucan-R,Fluconazole,source,ds1,val,False,ok
+ds1_train_1823.png,1823.png,M-Kast,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_725.png,725.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2898.jpg,P2898.jpg,Amitip,,unknown,ds2,train,False,ok
+ds1_train_1139.png,1139.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds1_test_628.png,628.png,Opton,Esomeprazole,source,ds1,test,False,ok
+ds2_train_P3245.jpg,P3245.jpg,Vibrenta,,unknown,ds2,train,False,ok
+ds2_train_P2339.jpg,P2339.jpg,Aorifip,,unknown,ds2,train,False,ok
+ds2_train_P4395.jpg,P4395.jpg,Emep,,unknown,ds2,train,False,ok
+ds2_train_P2391.jpg,P2391.jpg,Microcef,,unknown,ds2,train,False,ok
+ds1_train_827.png,827.png,Dancel,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_val_736.png,736.png,Telfast,Fexofenadine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P1568.jpg,P1568.jpg,Dexfacar,,unknown,ds2,train,False,ok
+ds2_test_P0936.jpg,P0936.jpg,Folzin,,unknown,ds2,test,False,ok
+ds1_test_477.png,477.png,Maxpro,Esomeprazole,source,ds1,test,False,ok
+ds1_val_95.png,95.png,Bacaid,Baclofen,source,ds1,val,False,ok
+ds1_val_182.png,182.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,val,False,ok
+ds2_train_P1729.jpg,P1729.jpg,Ubi Core,,unknown,ds2,train,False,ok
+ds1_test_613.png,613.png,Omastin,Fluconazole,source,ds1,test,False,ok
+ds2_train_P2492.jpg,P2492.jpg,Flugal,Fluconazole,auto,ds2,train,False,ok
+ds1_train_1541.png,1541.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds1_train_1276.png,1276.png,Fexo,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P2673.jpg,P2673.jpg,Napa One,,unknown,ds2,train,False,ok
+ds1_val_600.png,600.png,Odmon,Montelukast Sodium,source,ds1,val,False,ok
+ds1_val_722.png,722.png,Tamen,Paracetamol,source,ds1,val,False,ok
+ds2_train_P1236.jpg,P1236.jpg,roswva 5,,unknown,ds2,train,True,ok
+ds2_train_P2051.jpg,P2051.jpg,Rafiflo 8,,unknown,ds2,train,True,ok
+ds1_train_3088.png,3088.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds2_train_P3311.jpg,P3311.jpg,Pethidine,,unknown,ds2,train,False,ok
+ds2_train_P1124.jpg,P1124.jpg,Dominos,,unknown,ds2,train,False,ok
+ds2_train_P2609.jpg,P2609.jpg,Oclazid,,unknown,ds2,train,False,ok
+ds2_train_P3861.jpg,P3861.jpg,Napa,Paracetamol,auto,ds2,train,False,ok
+ds2_train_P1379.jpg,P1379.jpg,Cewfilid,,unknown,ds2,train,False,ok
+ds1_train_1526.png,1526.png,Ketocon,Ketoconazole (Shampoo),source,ds1,train,False,ok
+ds2_train_P1409.jpg,P1409.jpg,Reefcal-Dx,,unknown,ds2,train,False,ok
+ds1_train_1030.png,1030.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds1_train_280.png,280.png,Azyth,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_train_2161.png,2161.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds1_train_1387.png,1387.png,Flamyd,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2973.jpg,P2973.jpg,Rex,,unknown,ds2,train,False,ok
+ds2_train_P2147.jpg,P2147.jpg,Frenxil,,unknown,ds2,train,False,ok
+ds2_train_P3270.jpg,P3270.jpg,Xinc B,,unknown,ds2,train,False,ok
+ds2_test_P0835.jpg,P0835.jpg,Neuro,,unknown,ds2,test,False,ok
+ds2_test_P0779.jpg,P0779.jpg,Neuro,,unknown,ds2,test,False,ok
+ds2_train_P1883.jpg,P1883.jpg,Xinc B,,unknown,ds2,train,False,ok
+ds1_train_2165.png,2165.png,Napa Extend,Paracetamol,source,ds1,train,False,ok
+ds2_train_P1570.jpg,P1570.jpg,Neuroxen,,unknown,ds2,train,False,ok
+ds2_train_P3305.jpg,P3305.jpg,Voltalin,,unknown,ds2,train,False,ok
+ds1_train_1306.png,1306.png,Filmet,Metronidazole,source,ds1,train,False,ok
+ds2_train_P1479.jpg,P1479.jpg,Nafumef,,unknown,ds2,train,False,ok
+ds1_train_558.png,558.png,Bacmax,Baclofen,source,ds1,train,False,ok
+ds2_test_P0970.jpg,P0970.jpg,Avolac,,unknown,ds2,test,False,ok
+ds1_train_757.png,757.png,Cetisoft,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1026.png,1026.png,Esonix,Esomeprazole,source,ds1,train,False,ok
+ds1_train_1160.png,1160.png,Fenadin,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P1399.jpg,P1399.jpg,Tab. Nexum,,unknown,ds2,train,False,ok
+ds1_val_382.png,382.png,Ketocon,Ketoconazole (Shampoo),source,ds1,val,False,ok
+ds2_train_P2041.jpg,P2041.jpg,Caficid,,unknown,ds2,train,False,ok
+ds1_train_107.png,107.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_2467.png,2467.png,Omastin,Fluconazole,source,ds1,train,False,ok
+ds1_train_1934.png,1934.png,Metro,Metronidazole,source,ds1,train,False,ok
+ds2_train_P2601.jpg,P2601.jpg,Azinil,,unknown,ds2,train,False,ok
+ds2_train_P2205.jpg,P2205.jpg,Neuro-B,,unknown,ds2,train,False,ok
+ds2_train_P2627.jpg,P2627.jpg,Pantonix,,unknown,ds2,train,False,ok
+ds2_train_P2768.jpg,P2768.jpg,Alect,,unknown,ds2,train,False,ok
+ds2_train_P3642.jpg,P3642.jpg,Nifin SR,,unknown,ds2,train,False,ok
+ds1_val_366.png,366.png,Flexilax,Baclofen,source,ds1,val,False,ok
+ds1_train_2637.png,2637.png,Renova,Paracetamol,source,ds1,train,False,ok
+ds1_train_2393.png,2393.png,Nizoder,Ketoconazole (Cream),source,ds1,train,False,ok
+ds2_train_P2090.jpg,P2090.jpg,B. 50 forte,,unknown,ds2,train,True,ok
+ds1_train_1332.png,1332.png,Fixal,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_test_P0237.jpg,P0237.jpg,Ancor 5,,unknown,ds2,test,True,ok
+ds1_train_1707.png,1707.png,Leptic,Clonazepam,source,ds1,train,False,ok
+ds1_train_97.png,97.png,Alatrol,Cetirizine Hydrochloride,source,ds1,train,False,ok
+ds1_train_956.png,956.png,Dinafex,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds1_train_1489.png,1489.png,Flugal,Fluconazole,source,ds1,train,False,ok
+ds1_train_1331.png,1331.png,Fixal,Fexofenadine Hydrochloride,source,ds1,train,False,ok
+ds2_train_P3916.jpg,P3916.jpg,Tablet,,unknown,ds2,train,False,ok
+ds1_test_772.png,772.png,Zithrin,Azithromycin Dihydrate,source,ds1,test,False,ok
+ds1_train_1122.png,1122.png,Exium,Esomeprazole,source,ds1,train,False,ok
+ds1_train_3009.png,3009.png,Trilock,Montelukast Sodium,source,ds1,train,False,ok
+ds1_train_3108.png,3108.png,Zithrin,Azithromycin Dihydrate,source,ds1,train,False,ok
+ds1_val_652.png,652.png,Renova,Paracetamol,source,ds1,val,False,ok
+ds1_val_16.png,16.png,Ace,Paracetamol,source,ds1,val,False,ok
+ds2_test_P0377.jpg,P0377.jpg,Raditil,,unknown,ds2,test,False,ok
+ds1_val_254.png,254.png,Esonix,Esomeprazole,source,ds1,val,False,ok
+ds2_train_P3768.jpg,P3768.jpg,Nebulization,,unknown,ds2,train,False,ok
+ds2_train_P2906.jpg,P2906.jpg,Calbo-D,,unknown,ds2,train,False,ok
+ds1_train_2773.png,2773.png,Romycin,Azithromycin Dihydrate (Ophthalmic),source,ds1,train,False,ok
