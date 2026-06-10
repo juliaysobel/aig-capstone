@@ -66,33 +66,32 @@
 
 | Reason | Count |
 |---|---|
-| needs_review | 1166 |
 | illegible | 4 |
-| **Total dropped** | **1170** |
+| **Total dropped** | **4** |
 
 Dropped entries saved to `dropped_labels.csv` for reference.
 
 ### Final Dataset After Filtering
 
-- **Total usable images (ok)**: 9088
-- **Unique labels**: 1414
+- **Total usable images**: 10254
+- **Unique labels**: 1810
+- **ds2 images kept**: 5574
 - **ds1 images kept**: 4680
-- **ds2 images kept**: 4408
-- **has_dosage_flag = True** (kept, for later review): 188
+- **has_dosage_flag = True** (kept, for later review): 200
 
-### New Split Distribution (70 / 15 / 15)
+### Split Distribution (70 / 15 / 15)
 
 | Split | Total | ds1 | ds2 |
 |---|---|---|---|
-| train | 6361 | 3276 | 3085 |
-| val | 1363 | 702 | 661 |
-| test | 1364 | 702 | 662 |
+| train | 7177 | 3276 | 3901 |
+| val | 1538 | 702 | 836 |
+| test | 1539 | 702 | 837 |
 
 ### Generic Name Coverage (Clean Dataset)
 
 | generic_name_source | Count |
 |---|---|
+| unknown | 5139 |
 | source | 4680 |
-| unknown | 3973 |
 | auto | 435 |
 
