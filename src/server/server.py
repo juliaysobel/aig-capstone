@@ -5,7 +5,7 @@ Install:
     pip install fastapi uvicorn python-multipart torch torchvision transformers pillow
 
 Run:
-    uvicorn server:app --port 8000
+    uvicorn [src.server.]server:app --port 8000
 
 Test:
     curl -X POST http://localhost:8000/ocr -F "file=@image.png"
@@ -15,6 +15,7 @@ Test:
 
 import io
 import torch
+from pathlib import Path
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import HTMLResponse
 from PIL import Image
@@ -31,13 +32,17 @@ model.eval()
 #   > fine-tune base model on collected dataset
 #   > save fine-tuned model
 
+HTML = Path(__file__).parent / "index.html"
+
 # --- App ---
 app = FastAPI()
 
 @app.get("/")
 def index():
-    return HTMLResponse(open("index.html", encoding="utf-8").read(), 
-                        headers={"Content-Type": "text/html; charset=utf-8"})
+    return HTMLResponse(
+        HTML.read_text(encoding="utf-8"), 
+        headers={"Content-Type": "text/html; charset=utf-8"}
+    )
 
 @app.post("/ocr")
 async def ocr(file: UploadFile = File(...)):
