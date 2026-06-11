@@ -9,24 +9,35 @@ Run:
 
 Test:
     curl -X POST http://localhost:8000/ocr -F "file=@image.png"
+    OR Postman
+    OR open browser and navigate to http://localhost:8000 and upload image.
 """
 
 import io
 import torch
 from fastapi import FastAPI, File, UploadFile
+from fastapi.responses import HTMLResponse
 from PIL import Image
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
-from fastapi.middleware.cors import CORSMiddleware
 
-# --- Load model once at startup ---
+# Load model at startup
+# TODO: if available load fine-tuned model
 MODEL_ID = "microsoft/trocr-large-handwritten"
 processor = TrOCRProcessor.from_pretrained(MODEL_ID)
 model = VisionEncoderDecoderModel.from_pretrained(MODEL_ID)
 model.eval()
 
+# TODO: if no fine-tuned model exists, 
+#   > fine-tune base model on collected dataset
+#   > save fine-tuned model
+
 # --- App ---
 app = FastAPI()
-app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+
+@app.get("/")
+def index():
+    return HTMLResponse(open("index.html", encoding="utf-8").read(), 
+                        headers={"Content-Type": "text/html; charset=utf-8"})
 
 @app.post("/ocr")
 async def ocr(file: UploadFile = File(...)):
