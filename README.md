@@ -2,6 +2,8 @@
 
 ## REST API Server
 
+DockerHub: [collinapjoseph/aig-capstone](https://hub.docker.com/repository/docker/collinapjoseph/aig-capstone/general)
+
 ### Requirements
 See: `src/requirements.txt`. <br>
 In addition to these libraries PyTorch is required. CUDA-enabled PyTorch is recommended.<br>
