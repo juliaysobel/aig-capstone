@@ -4,7 +4,7 @@
 
 ### Requirements
 See: `src/requirements.txt`. <br>
-In addition to these libraries PyTorch is required. CUDA-enabled PyTorch is recommended.
+In addition to these libraries PyTorch is required. CUDA-enabled PyTorch is recommended.<br>
 `pip install torch torchaudio torchvision`<br>
 OR <br>
 `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128`
