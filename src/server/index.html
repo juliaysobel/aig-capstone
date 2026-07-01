@@ -248,7 +248,7 @@
     form.append("file", file);
 
     try {
-      const res = await fetch(`/ocr`, { method: "POST", body: form });
+      const res = await fetch(`/analyze`, { method: "POST", body: form });
       const data = await res.json();
 
       resultText.className = "";

@@ -3,7 +3,8 @@
 ## REST API Server
 
 ### Requirements
-`pip install fastapi uvicorn python-multipart torch torchvision transformers pillow`
+`pip install fastapi uvicorn python-multipart torch torchvision transformers pillow`<br>
+Optional: install pytorch-cuda instead of cpu.
 
 ### Run
 1. Command: `uvicorn src.server.server:app --port 8000`
