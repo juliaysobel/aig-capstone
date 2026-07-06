@@ -5,14 +5,14 @@ WORKDIR /app
 
 COPY requirements.txt .
 RUN ["pip", "install", "--no-cache-dir", "-r", "requirements.txt"]
-# RUN pip install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
 COPY server/server.py .
 COPY server/index.html .
-# TODO: copy fine-tuned model
+COPY server/fuzzy_match.py .
+COPY server/drug_dictionary.csv .
+COPY server/rx-donut-final/ ./rx-donut-final/
 
 # Set 8000 as container listening port.
 EXPOSE 8000
 
 CMD ["/home/nonroot/.local/bin/uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]
-# CMD ["uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]
