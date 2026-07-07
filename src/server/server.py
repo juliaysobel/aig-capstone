@@ -108,3 +108,8 @@ async def analyze(file: UploadFile = File(...)):
         predicted_name = drug_info["matched_label"]
 
     return {"text": predicted_name, "generic_name": drug_info["generic_name"]}
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)

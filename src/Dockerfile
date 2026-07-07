@@ -15,4 +15,5 @@ COPY server/rx-donut-final/ ./rx-donut-final/
 # Set 8000 as container listening port.
 EXPOSE 8000
 
-CMD ["/home/nonroot/.local/bin/uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["python", "server.py"]
+# CMD ["/bin/sh", "-c", "/home/nonroot/.local/bin/uvicorn server:app --host 0.0.0.0 --port $PORT"]
