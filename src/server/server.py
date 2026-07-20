@@ -91,8 +91,11 @@ def model_info():
 
 @app.post("/analyze")
 async def analyze(file: UploadFile = File(...)):
-    # Run image-to-text 
-    image = Image.open(io.BytesIO(await file.read())).convert("RGB")
+    try:
+        image = Image.open(io.BytesIO(await file.read())).convert("RGB")
+    except Exception:
+        return {"error": True, "error_message": "Couldn't read this file as an image."}
+
     pixel_values = processor(images=image, return_tensors="pt").pixel_values.to(DEVICE)
 
     with torch.no_grad():
@@ -103,11 +106,13 @@ async def analyze(file: UploadFile = File(...)):
     # Run smart drug name processing
     drug_info = fuzzyMatcher.match(text[0])
 
-    predicted_name = drug_info["raw_ocr_text"]    
-    if drug_info["matched_label"] is not None:
-        predicted_name = drug_info["matched_label"]
-
-    return {"text": predicted_name, "generic_name": drug_info["generic_name"]}
+    return {
+            "raw_ocr_text": drug_info["raw_ocr_text"],
+            "matched_label": drug_info["matched_label"],
+            "generic_name": drug_info["generic_name"],
+            "match_confidence": drug_info["match_confidence"],
+            "source": drug_info.get("source"),
+        }
 
 if __name__ == "__main__":
     import uvicorn
