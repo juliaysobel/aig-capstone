@@ -1,0 +1,20 @@
+--------------------
+DONUT ONLY
+--------------------
+Character Error Rate (CER): 0.0931
+
+--------------------
+FUZZY MATCHING
+--------------------
+Threshold: 99
+Character Error Rate (CER): 0.1007
+Threshold: 95
+Character Error Rate (CER): 0.1008
+Threshold: 90
+Character Error Rate (CER): 0.1086
+Threshold: 80
+Character Error Rate (CER): 0.1342
+Threshold: 70
+Character Error Rate (CER): 0.1562
+Threshold: 60
+Character Error Rate (CER): 0.1668

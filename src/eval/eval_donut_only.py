@@ -74,7 +74,7 @@ cer_score = cer_metric.compute(predictions=predictions, references=references)
 
 print(f"Character Error Rate (CER): {cer_score:.4f}")
 
-# === OPTIONAL: SAVE PER-SAMPLE RESULTS FOR ERROR INSPECTION ===
+# === SAVE PER-SAMPLE RESULTS FOR ERROR INSPECTION ===
 results_df = pd.DataFrame({
     "image": df["filename"],
     "reference": references,
