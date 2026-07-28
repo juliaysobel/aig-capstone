@@ -1,9 +1,13 @@
 """
 Apply fuzzy matching to Donut outputs at various thresholds and evaluate.
 """
+import os
+import sys
 import pandas as pd
 import evaluate
 from pathlib import Path
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from server.fuzzy_match import DrugMatcher
 
 RAW_RESULTS_FNAME = "test_predictions_no_fuzzy.csv"
