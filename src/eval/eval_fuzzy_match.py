@@ -10,9 +10,10 @@ from pathlib import Path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from server.fuzzy_match import DrugMatcher
 
-RAW_RESULTS_FNAME = "test_predictions_no_fuzzy.csv"
+# RAW_RESULTS_FNAME = "test_predictions_no_fuzzy.csv"
+RAW_RESULTS_FNAME = "test_predictions_no_fuzzy_standardized.csv"
 FM_DICT_FPATH = Path(__file__).parent.parent / "server" / "drug_dictionary.csv"
-FM_THRESHOLDS = [99, 95, 90, 80, 70, 60]
+FM_THRESHOLDS = [99, 95, 90, 80, 70, 60, 50, 40]
 
 donut_output = pd.read_csv(RAW_RESULTS_FNAME)
 num_samples = donut_output.shape[0]
@@ -39,4 +40,5 @@ for threshold in FM_THRESHOLDS:
 
     # save fuzzed predictions
     results_df["fm_prediction"] = fm_preds
-    results_df.to_csv(f"test_predictions_fuzzy_matching_{threshold:.0f}.csv")
+    # results_df.to_csv(f"test_predictions_fuzzy_matching_{threshold:.0f}.csv")    
+    results_df.to_csv(f"test_predictions_fuzzy_matching_standardized_{threshold:.0f}.csv")

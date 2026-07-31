@@ -12,9 +12,10 @@ import evaluate
 # === CONFIG (edit these paths) ===
 MODEL_DIR = Path(__file__).parent.parent / "server" / "rx-donut-final"
 DATA_DIR = Path(__file__).parent.parent.parent / "data" / "combined"
-TEST_CSV = DATA_DIR / "test_labels.csv"
+# TEST_CSV = DATA_DIR / "test_labels.csv"
+TEST_CSV = DATA_DIR / "test_labels_standardized.csv"
 TEST_IMG_DIR = DATA_DIR / "test"
-RESULTS_FNAME = "test_predictions_no_fuzzy.csv"
+RESULTS_FNAME = "test_predictions_no_fuzzy_standardized.csv"
 TASK_TOKEN = "<s_rx>"
 END_TOKEN = "</s_rx>"
 MAX_LENGTH = 32
